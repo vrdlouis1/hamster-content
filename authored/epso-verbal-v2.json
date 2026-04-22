@@ -1,0 +1,39 @@
+{
+  "packMeta": {
+    "packId": "epso-verbal-v2",
+    "name": "EPSO Verbal Reasoning — EU Acts",
+    "description": "Verbal reasoning MCQs drawn from recent EU legislation (DSA, DMA, GDPR, AI Act, Data Governance Act). Passages public under EU Reuse Decision 2011/833/EU. Question authoring: Louis Viard.",
+    "license": "CC-BY-4.0",
+    "source": "EUR-Lex Cellar — passages quoted verbatim, MCQs hand-authored",
+    "set": "epso-verbal-v2"
+  },
+  "__instructions": [
+    "Authoring workflow:",
+    "1. Browse passages in sources/eur-lex/{CELEX}.passages.json — pick one with a clear proposition",
+    "2. Add an entry to `items` below: {celex, passageIdx, title, stem, options[], correctIdx, explanation, difficulty}",
+    "3. Distractors must be plausible (a careless reader could pick them) but incorrect. Tags 'aiAssisted: true' are fine for distractors; the correct answer + stem should be human-authored.",
+    "4. Run `node scripts/build-epso-verbal-v2.mjs` to regenerate packs/epso-verbal-v2-v1.json",
+    "5. Remove this __instructions field before publishing if you like (validator ignores it)."
+  ],
+  "items": [
+    {
+      "celex": "32022R2065",
+      "passageIdx": 15,
+      "title": "EPSO Verbal — Digital Services Act",
+      "stem": "According to the passage, the Regulation:",
+      "options": [
+        "provides the legal basis for national authorities to issue orders against illegal content",
+        "harmonises minimum conditions that such orders must meet for providers' notification obligations to apply",
+        "regulates the territorial scope of national orders against illegal content",
+        "requires Member States to harmonise their substantive laws on illegal content"
+      ],
+      "correctIdx": 1,
+      "explanation": "The final two sentences state the Regulation harmonises 'certain specific minimum conditions' and explicitly does NOT 'provide the legal basis for the issuing of such orders, nor does it regulate their territorial scope'.",
+      "difficulty": "medium",
+      "tags": ["epso", "verbal", "eu-law", "dsa"],
+      "aiAssisted": true,
+      "exampleItem": true,
+      "__note": "AUTO-GENERATED SCAFFOLD — Louis: review, edit, or replace. Correct answer is directly supported by the passage's last two sentences."
+    }
+  ]
+}

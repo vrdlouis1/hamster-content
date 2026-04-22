@@ -3,6 +3,21 @@
   "updatedAt": "2026-04-22",
   "packs": [
     {
+      "packId": "epso-numerical-v2",
+      "version": "1.0.0",
+      "name": "EPSO Numerical Reasoning — Eurostat Tables",
+      "description": "Numerical reasoning MCQs over small Eurostat tables (GDP, unemployment, population, energy). Data © European Union, CC BY 4.0. Question authoring: Louis Viard.",
+      "category": "exam-prep",
+      "license": "CC-BY-4.0",
+      "source": "Eurostat tables + hand-authored MCQs",
+      "url": "packs/epso-numerical-v2-v1.json",
+      "questionCount": 1,
+      "sizeBytes": 2321,
+      "contentHash": "sha256-007008e86fad43d83453f977cb083551c6a7bee3f7eccea41a186daf12ce8ddb",
+      "tier": "free",
+      "updatedAt": "2026-04-22"
+    },
+    {
       "packId": "epso-samples",
       "version": "1.0.0",
       "name": "EPSO — Official Sample Tests",
@@ -14,6 +29,21 @@
       "questionCount": 22,
       "sizeBytes": 88120,
       "contentHash": "sha256-4aab55731098eb6899407e711bbed2537e52603755ba9b628075a6e8da712e59",
+      "tier": "free",
+      "updatedAt": "2026-04-22"
+    },
+    {
+      "packId": "epso-verbal-v2",
+      "version": "1.0.0",
+      "name": "EPSO Verbal Reasoning — EU Acts",
+      "description": "Verbal reasoning MCQs drawn from recent EU legislation (DSA, DMA, GDPR, AI Act, Data Governance Act). Passages public under EU Reuse Decision 2011/833/EU. Question authoring: Louis Viard.",
+      "category": "exam-prep",
+      "license": "CC-BY-4.0",
+      "source": "EUR-Lex Cellar — passages quoted verbatim, MCQs hand-authored",
+      "url": "packs/epso-verbal-v2-v1.json",
+      "questionCount": 1,
+      "sizeBytes": 3469,
+      "contentHash": "sha256-186bbe25a533bfd96e7e768abe386c0c645d15efa776907e4687641935143f71",
       "tier": "free",
       "updatedAt": "2026-04-22"
     },

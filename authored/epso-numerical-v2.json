@@ -1,0 +1,33 @@
+{
+  "packMeta": {
+    "packId": "epso-numerical-v2",
+    "name": "EPSO Numerical Reasoning — Eurostat Tables",
+    "description": "Numerical reasoning MCQs over small Eurostat tables (GDP, unemployment, population, energy). Data © European Union, CC BY 4.0. Question authoring: Louis Viard.",
+    "license": "CC-BY-4.0",
+    "source": "Eurostat tables + hand-authored MCQs",
+    "set": "epso-numerical-v2"
+  },
+  "__instructions": [
+    "Authoring workflow:",
+    "1. Browse tables in sources/eurostat/{code}.table.json",
+    "2. Add entry below: {dataset, title, stem, options[], correctIdx, explanation, difficulty}",
+    "3. Stems should require arithmetic the reader can do in ~1 min without a calculator (differences, percent changes, ranking, averages)",
+    "4. Correct answer must be computationally derivable from the rendered table",
+    "5. Run `node scripts/build-epso-numerical-v2.mjs`"
+  ],
+  "items": [
+    {
+      "dataset": "une_rt_a",
+      "title": "EPSO Numerical — Unemployment rate",
+      "stem": "By how many percentage points did the unemployment rate in Spain fall between 2020 and 2023?",
+      "options": ["2.7", "3.3", "13.0", "1.8"],
+      "correctIdx": 1,
+      "explanation": "Spain 2020 = 15.5%, Spain 2023 = 12.2%. Difference: 15.5 − 12.2 = 3.3 percentage points.",
+      "difficulty": "easy",
+      "tags": ["epso", "numerical", "eurostat"],
+      "aiAssisted": true,
+      "exampleItem": true,
+      "__note": "AUTO-GENERATED SCAFFOLD — Louis: verify arithmetic, edit, or replace."
+    }
+  ]
+}

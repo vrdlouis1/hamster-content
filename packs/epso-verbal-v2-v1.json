@@ -1,0 +1,48 @@
+{
+  "packId": "epso-verbal-v2",
+  "version": "1.0.0",
+  "name": "EPSO Verbal Reasoning — EU Acts",
+  "description": "Verbal reasoning MCQs drawn from recent EU legislation (DSA, DMA, GDPR, AI Act, Data Governance Act). Passages public under EU Reuse Decision 2011/833/EU. Question authoring: Louis Viard.",
+  "license": "CC-BY-4.0",
+  "source": "EUR-Lex Cellar — passages quoted verbatim, MCQs hand-authored",
+  "updatedAt": "2026-04-22",
+  "questionCount": 1,
+  "sets": {
+    "epso-verbal-v2": [
+      {
+        "id": "b88b921f-9bee-5b7a-0218-4fb964033dc6",
+        "type": "reading",
+        "title": "EPSO Verbal — Digital Services Act",
+        "description": "According to the passage, the Regulation:",
+        "readingPassage": "Depending on the legal system of each Member State and the field of law at issue, national judicial or administrative authorities, including law enforcement authorities, may order providers of intermediary services to act against one or more specific items of illegal content or to provide certain specific information. The national laws on the basis of which such orders are issued differ considerably and the orders are increasingly addressed in cross-border situations. In order to ensure that those orders can be complied with in an effective and efficient manner, in particular in a cross-border context, so that the public authorities concerned can carry out their tasks and the providers are not subject to any disproportionate burdens, without unduly affecting the rights and legitimate interests of any third parties, it is necessary to set certain conditions that those orders should meet and certain complementary requirements relating to the processing of those orders. Consequently, this Regulation should harmonise only certain specific minimum conditions that such orders should fulfil in order to give rise to the obligation of providers of intermediary services to inform the relevant authorities about the effect given to those orders. Therefore, this Regulation does not provide the legal basis for the issuing of such orders, nor does it regulate their territorial scope or cross-border enforcement.",
+        "options": [
+          {
+            "label": "provides the legal basis for national authorities to issue orders against illegal content"
+          },
+          {
+            "label": "harmonises minimum conditions that such orders must meet for providers' notification obligations to apply",
+            "correct": true
+          },
+          {
+            "label": "regulates the territorial scope of national orders against illegal content"
+          },
+          {
+            "label": "requires Member States to harmonise their substantive laws on illegal content"
+          }
+        ],
+        "explanation": "The final two sentences state the Regulation harmonises 'certain specific minimum conditions' and explicitly does NOT 'provide the legal basis for the issuing of such orders, nor does it regulate their territorial scope'.",
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "verbal",
+          "eu-law",
+          "dsa"
+        ],
+        "source": "EUR-Lex Cellar — CELEX:32022R2065 · AI-assisted distractors",
+        "sourceUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2065",
+        "license": "CC-BY-4.0"
+      }
+    ]
+  },
+  "contentHash": "sha256-186bbe25a533bfd96e7e768abe386c0c645d15efa776907e4687641935143f71"
+}

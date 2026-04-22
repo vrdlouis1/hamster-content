@@ -1,0 +1,47 @@
+{
+  "packId": "epso-numerical-v2",
+  "version": "1.0.0",
+  "name": "EPSO Numerical Reasoning — Eurostat Tables",
+  "description": "Numerical reasoning MCQs over small Eurostat tables (GDP, unemployment, population, energy). Data © European Union, CC BY 4.0. Question authoring: Louis Viard.",
+  "license": "CC-BY-4.0",
+  "source": "Eurostat tables + hand-authored MCQs",
+  "updatedAt": "2026-04-22",
+  "questionCount": 1,
+  "sets": {
+    "epso-numerical-v2": [
+      {
+        "id": "de0c45c5-e843-5b85-649b-5f17777ab4cb",
+        "type": "reading",
+        "title": "EPSO Numerical — Unemployment rate",
+        "description": "By how many percentage points did the unemployment rate in Spain fall between 2020 and 2023?",
+        "readingPassage": "Unemployment by sex and age - annual data (Percentage of population in the labour force)\n\nCountry                                    2020  2021  2022  2023\n─────────────────────────────────────────  ────  ────  ────  ────\nEuropean Union - 27 countries (from 2020)  7.2   7.1   6.2   6.1 \nGermany                                    3.6   3.6   3.1   3.1 \nSpain                                      15.5  14.9  13    12.2\nFrance                                     8     7.9   7.3   7.3 \nItaly                                      9.3   9.5   8.1   7.7 \nPoland                                     3.2   3.4   2.9   2.8 ",
+        "options": [
+          {
+            "label": "2.7"
+          },
+          {
+            "label": "3.3",
+            "correct": true
+          },
+          {
+            "label": "13.0"
+          },
+          {
+            "label": "1.8"
+          }
+        ],
+        "explanation": "Spain 2020 = 15.5%, Spain 2023 = 12.2%. Difference: 15.5 − 12.2 = 3.3 percentage points.",
+        "difficulty": "easy",
+        "tags": [
+          "epso",
+          "numerical",
+          "eurostat"
+        ],
+        "source": "Eurostat — European Commission (une_rt_a) · AI-assisted distractors",
+        "sourceUrl": "https://ec.europa.eu/eurostat/databrowser/view/une_rt_a",
+        "license": "CC-BY-4.0"
+      }
+    ]
+  },
+  "contentHash": "sha256-007008e86fad43d83453f977cb083551c6a7bee3f7eccea41a186daf12ce8ddb"
+}

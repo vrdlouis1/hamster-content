@@ -1,0 +1,81 @@
+{
+  "dataset": "tec00001",
+  "shortName": "GDP at current market prices",
+  "source": "Eurostat — European Commission",
+  "sourceUrl": "https://ec.europa.eu/eurostat/databrowser/view/tec00001",
+  "license": "CC-BY-4.0",
+  "licenseNote": "© European Union, 1995–present. Reuse under CC BY 4.0.",
+  "queryUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tec00001?format=JSON&lang=EN&na_item=B1GQ&unit=CP_MEUR&time=2020&time=2021&time=2022&time=2023&geo=EU27_2020&geo=DE&geo=FR&geo=IT&geo=ES&geo=PL",
+  "label": "Gross domestic product at market prices",
+  "unit": "Current prices, million euro",
+  "rowDim": "geo",
+  "colDim": "time",
+  "columns": [
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "rows": [
+    {
+      "geo": "European Union - 27 countries (from 2020)",
+      "code": "EU27_2020",
+      "values": {
+        "2020": 13578815.3,
+        "2021": 14792279.6,
+        "2022": 16170154,
+        "2023": 17256923.3
+      }
+    },
+    {
+      "geo": "Germany",
+      "code": "DE",
+      "values": {
+        "2020": 3450720,
+        "2021": 3682340,
+        "2022": 3989390,
+        "2023": 4219310
+      }
+    },
+    {
+      "geo": "Spain",
+      "code": "ES",
+      "values": {
+        "2020": 1129214,
+        "2021": 1235474,
+        "2022": 1375863,
+        "2023": 1497761
+      }
+    },
+    {
+      "geo": "France",
+      "code": "FR",
+      "values": {
+        "2020": 2318276.2,
+        "2021": 2508102.3,
+        "2022": 2653997.2,
+        "2023": 2826541.5
+      }
+    },
+    {
+      "geo": "Italy",
+      "code": "IT",
+      "values": {
+        "2020": 1670011.9,
+        "2021": 1842507.4,
+        "2022": 1998072.6,
+        "2023": 2142744.4
+      }
+    },
+    {
+      "geo": "Poland",
+      "code": "PL",
+      "values": {
+        "2020": 531827.4,
+        "2021": 583001.4,
+        "2022": 661712.3,
+        "2023": 751931.7
+      }
+    }
+  ]
+}

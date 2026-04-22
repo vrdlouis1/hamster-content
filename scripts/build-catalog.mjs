@@ -23,9 +23,11 @@ const SCHEMA_VERSION = 1;
 // Kept explicit rather than inferred so pack naming conventions can evolve
 // without breaking users' interest selections.
 const CATEGORY_BY_PACK = {
-  'gre-vocab-defmatch': 'gre-vocab',
-  'gre-vocab-cloze':    'gre-vocab',
-  'epso-samples':       'exam-prep'
+  'gre-vocab-defmatch':  'gre-vocab',
+  'gre-vocab-cloze':     'gre-vocab',
+  'epso-samples':        'exam-prep',
+  'epso-verbal-v2':      'exam-prep',
+  'epso-numerical-v2':   'exam-prep'
 };
 
 async function main() {
