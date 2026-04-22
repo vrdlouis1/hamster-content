@@ -1,0 +1,54 @@
+[
+  {
+    "word": "denigrate",
+    "phonetic": "/ˈdɛn.ɪ.ɡɹeɪt/",
+    "phonetics": [
+      {
+        "text": "/ˈdɛn.ɪ.ɡɹeɪt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/denigrate-au.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75730151",
+        "license": {
+          "name": "BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      },
+      {
+        "text": "/ˈdɛn.ɪ.ɡɹeɪt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/denigrate-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=36696475"
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To criticise so as to besmirch; traduce, disparage or defame.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To treat as worthless; belittle, degrade or disparage.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "You have no right to denigrate people and things that you have no personal experience with."
+          },
+          {
+            "definition": "To blacken.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ],
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "sourceUrls": [
+      "https://en.wiktionary.org/wiki/denigrate"
+    ]
+  }
+]

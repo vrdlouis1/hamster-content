@@ -1,0 +1,57 @@
+[
+  {
+    "word": "enervate",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To reduce strength or energy; debilitate.",
+            "synonyms": [],
+            "antonyms": [],
+            "example": "After being laid off three times in a row, she felt too enervated to look for another job."
+          },
+          {
+            "definition": "To weaken morally or mentally.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To partially or completely remove a nerve.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "debilitate",
+          "weaken"
+        ],
+        "antonyms": [
+          "bolster",
+          "revive",
+          "strengthen"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Made feeble; weakened.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ],
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "sourceUrls": [
+      "https://en.wiktionary.org/wiki/enervate"
+    ]
+  }
+]

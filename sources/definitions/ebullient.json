@@ -1,0 +1,47 @@
+[
+  {
+    "word": "ebullient",
+    "phonetic": "/ɪˈbʊljənt/",
+    "phonetics": [
+      {
+        "text": "/ɪˈbʊljənt/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Enthusiastic; high-spirited.",
+            "synonyms": [
+              "zestful"
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "(of a liquid) Boiling or agitated as if boiling.",
+            "synonyms": [
+              "abubble",
+              "bubbly"
+            ],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "abubble",
+          "bubbly",
+          "zestful"
+        ],
+        "antonyms": []
+      }
+    ],
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "sourceUrls": [
+      "https://en.wiktionary.org/wiki/ebullient"
+    ]
+  }
+]

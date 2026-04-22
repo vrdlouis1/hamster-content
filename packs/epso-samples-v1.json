@@ -1,0 +1,678 @@
+{
+  "packId": "epso-samples",
+  "version": "1.0.0",
+  "name": "EPSO — Official Sample Tests",
+  "description": "22 authentic MCQs from EPSO's published sample tests (verbal, numerical, abstract reasoning + language comprehension). Sourced from eu-careers.europa.eu under CC BY 4.0.",
+  "contributor": "Hamster team",
+  "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+  "license": "CC-BY-4.0",
+  "updatedAt": "2026-04-22",
+  "questionCount": 22,
+  "sets": {
+    "epso-verbal-samples": [
+      {
+        "id": "602566e0-0583-528a-7b67-c85034044884",
+        "type": "mcq",
+        "title": "EPSO Verbal Reasoning (official sample)",
+        "description": "Question 1 Of all forms of transport, air travel has seen by far the most impressive growth in the European Union over the last twenty years. Whilst the terrorist attacks of September 11th plunged the market into disarray, this disarray was short-lived and air traffic volumes have almost fully recovered. However, the boom in air travel is generating problems relating to overloaded air traffic control systems and overcrowding at airports. Each year Europe's airports come closer to the limits of their capacity, and airspace becomes more and more crowded, leading to delays and inefficiency. Saturated airports also limit access for new companies wishing to compete with well-established carriers. Which of the following statements is correct?",
+        "options": [
+          {
+            "label": "A. The size of airports has grown spectacularly over the last two decades."
+          },
+          {
+            "label": "B. Air traffic control is finding it difficult to cope with the growth in air traffic.",
+            "correct": true
+          },
+          {
+            "label": "C. New companies cannot enter the airline market as airports have no space for them."
+          },
+          {
+            "label": "D. Airspace overcrowding is more of an issue than airport overcrowding."
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-verbal-samples"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/en/verbal-testsAST",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "0e26ad2c-41a4-510f-49e1-8adfbee6370d",
+        "type": "mcq",
+        "title": "EPSO Verbal Reasoning (official sample)",
+        "description": "Question 2 Described by Aristotle as consisting of logos (the logical content of a speech) and lexis (the style of delivery of a speech), the study of rhetoric is the study of the art of persuasion. Despite a long and vigorous history, today rhetoric is rarely taught as a specific skill, a demise erroneously attributed by many to the fact that rhetorical theory and practice has not evolved fundamentally since antiquity. Yet the reality is that nowadays there is simply less need for powerful and convincing public speakers - modern media recording and broadcasting technology can support even the most unpolished presenter. Thus whilst the fundamentals of rhetoric may still be as apt as they ever were, other developments have rendered it obsolete. Which of the following statements is correct?",
+        "options": [
+          {
+            "label": "A. The skills of rhetoric are no longer as effective on their audiences."
+          },
+          {
+            "label": "B. Rhetorical theory and practice are continually being revised."
+          },
+          {
+            "label": "C. Rhetoric may be seen as the study of what is said in a speech and how it is said.",
+            "correct": true
+          },
+          {
+            "label": "D. Modern media technology is no substitute for formal training in rhetoric."
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-verbal-samples"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/en/verbal-testsAST",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "a354ba05-c0fc-5454-1bef-4c8c2d01604f",
+        "type": "mcq",
+        "title": "EPSO Verbal Reasoning (official sample)",
+        "description": "Question 3 The Schipperke is a breed of dog that originated in Flanders and was traditionally used as a guard on barges. The Schipperke (\"little captain\") is descended from the Leuvenaar, which also gave rise to the Belgian sheepdog. A short, thickset, tailless dog with a dense black coat and a fox-like head, the Schipperke stands approximately 32 cm high and weighs up to 8 kg. It has a lively, inquisitive expression and is generally hardy and energetic, a capable hunter of rats and other small vermin, and a good watchdog. Which of the following statements is correct?",
+        "options": [
+          {
+            "label": "A. The Schipperke is related to the fox."
+          },
+          {
+            "label": "B. The Schipperke is an excellent swimmer."
+          },
+          {
+            "label": "C. The Belgian Sheepdog is quite a short dog."
+          },
+          {
+            "label": "D. A black dog with a tail could not be a Schipperke.",
+            "correct": true
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-verbal-samples"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/en/verbal-testsAST",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "32429e21-3083-590d-6f29-e4ce8282c605",
+        "type": "mcq",
+        "title": "EPSO Verbal Reasoning (official sample)",
+        "description": "Question 4 Fears over the security of Internet-based telephone calls have been fuelled by the case of a man said to have made more than €700 000 by illegally gaining access to the computer systems of Internet telephone companies and fraudulently selling calls over their networks. This case is the first prosecution for alleged Internet call crime. Experts believe that it could prove a significant setback for the fast-growing European Internet calls industry. Internet telephone call services have revolutionised communications, allowing users to make free calls to anywhere in the world, provided they have a modern Internet connection and a computer with the right software. Companies offering the services pay the telephone companies to link Internet calls with the traditional telephone network. Which of the following statements is correct?",
+        "options": [
+          {
+            "label": "A. Prior to the prosecution of this man, fears regarding the security of Internet-based telephone calls were low."
+          },
+          {
+            "label": "B. Internet call companies in Europe fear that this case will slow down their fast growing industry."
+          },
+          {
+            "label": "C. Users of Internet telephone services do not have to pay for the computer equipment or software required to access these services."
+          },
+          {
+            "label": "D. Telephone companies obtain revenue from the companies that offer Internet call services.",
+            "correct": true
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-verbal-samples"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/en/verbal-testsAST",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "7ec58759-5b10-5898-183a-ac351803c7f7",
+        "type": "mcq",
+        "title": "EPSO Verbal Reasoning (official sample)",
+        "description": "Question 5 The pagan roots of Easter can be found in the celebration of the spring equinox, a date that has been treated as an important holiday by many different religions and for many millennia. Occurring every year on March 20th, 21st, or 22nd, the spring equinox marks the end of winter and the beginning of spring. For cultures in northern climates, this date marks the renewed life of the Earth that comes with spring and is also strongly associated with fertility and reproduction. Which of the following statements is correct?",
+        "options": [
+          {
+            "label": "A. Easter is primarily a pagan festival."
+          },
+          {
+            "label": "B. Easter occurs around March 21st every year."
+          },
+          {
+            "label": "C. In southern climates there is no celebration of the spring equinox."
+          },
+          {
+            "label": "D. The celebration of the spring equinox has a long history.",
+            "correct": true
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-verbal-samples"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/en/verbal-testsAST",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "ed7a3dce-87f3-5811-2922-02c44eb46c3b",
+        "type": "mcq",
+        "title": "EPSO Verbal Reasoning (official sample)",
+        "description": "Question 6 Invasive species are living organisms that have been transported beyond their original native habitat to flourish in new environments, for example zebra mussels in the US, or rabbits in Australia. The enormous growth in the international mobility of people and commodities in the last fifty years means that invasive species now cause unprecedented environmental damage. This is because the predators that evolved with them and that control their population in their native habitats are generally not present in their new environment. In turn native species may be unable to compete successfully for vital resources and may therefore be driven to extinction. Indeed, invasive species are now the second most important cause of biodiversity loss, after habitat destruction. Which of the following statements is correct?",
+        "options": [
+          {
+            "label": "A. The biodiversity loss caused by invasive species is now greater than ever before.",
+            "correct": true
+          },
+          {
+            "label": "B. The zebra mussel has no predators in the US."
+          },
+          {
+            "label": "C. Invasive species have only become a problem in the last fifty years."
+          },
+          {
+            "label": "D. Native species are driven to extinction because they require different resources from invasive ones."
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-verbal-samples"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/en/verbal-testsAST",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "d865eebf-c1b1-5e8a-0e06-e3496a5d0496",
+        "type": "mcq",
+        "title": "EPSO Verbal Reasoning (official sample)",
+        "description": "Question 7 Preheating the oven and accurately measuring and combining your ingredients are the key factors in making a perfect cake. First, preheat the oven and then beat the sugar and butter together until fully blended. Next add the batter, consisting of whole milk, eggs and vanilla extract. Skimmed milk can be used instead of whole milk if preferred; however more butter must then be used during the first stage. Finally, once the batter has been blended into the mixture, mix in the flour and a teaspoon of baking powder. Baking powder is necessary for the cake to rise, although how much it rises is determined by the quality of the mixing process, the relative quantities of ingredients and the oven temperature. Which of the following statements is correct?",
+        "options": [
+          {
+            "label": "A. There are three factors which determine how much a cake rises.",
+            "correct": true
+          },
+          {
+            "label": "B. The more baking powder is added to the mixture, the more the cake will rise."
+          },
+          {
+            "label": "C. Butter is normally added twice under the recipe: once at the initial stage when it is beaten in with the sugar and then to make the batter."
+          },
+          {
+            "label": "D. The batter used to make cake must be made with whole milk, eggs and vanilla extract."
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-verbal-samples"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/en/verbal-testsAST",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "b208deb8-8567-5f0f-5064-c0b9b6e0761b",
+        "type": "mcq",
+        "title": "EPSO Verbal Reasoning (official sample)",
+        "description": "Question 8 DNA tests have confirmed that a white bear with brown patches that was shot dead in northern Canada is the first grizzly-polar hybrid found in the wild. Until now, grizzly-polar hybrid bears have been found only in zoos, because they rarely even meet, let alone mate, in the wild. There are also differences such as the timing of mating seasons, which not only make such hybrids highly unusual but also limit the survival chances of any resultant offspring. Indeed, it is likely that the only chance of such a union occurring is when, after emerging from hibernation, a disoriented grizzly bear ventures across the ice into polar bear territory. Which of the following statements is correct?",
+        "options": [
+          {
+            "label": "A. The main reason why grizzly and polar bears do not crossbreed is that they have different mating seasons."
+          },
+          {
+            "label": "B. Grizzly and polar bears do breed naturally in zoos."
+          },
+          {
+            "label": "C. The two breeds would most likely encounter each other when a polar bear accidentally ventures into grizzly bear territory."
+          },
+          {
+            "label": "D. There are a number of different factors which limit the likelihood of a grizzly-polar hybrid occurring in the wild.",
+            "correct": true
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-verbal-samples"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/en/verbal-testsAST",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "64535e75-280a-5501-5119-93bd5c30450b",
+        "type": "mcq",
+        "title": "EPSO Verbal Reasoning (official sample)",
+        "description": "Question 9 In 1815 a volcanic eruption, the largest ever recorded, smothered villages on the small island of Sumbawa in Indonesia and claimed the lives of an estimated one hundred thousand people. Such was the impact of the eruption that 1cm of ash fell on locations up to 500km away. The eruption had far reaching effects; crop damage was reported in parts of France and Germany. The amount of material ejected by the volcano into the atmosphere caused a global drop in temperature of nearly one degree Centigrade. Over ninety thousand people died in the weeks following the eruption from starvation and disease, with only a minority of deaths occurring on the day of the eruption. Which of the following statements is correct?",
+        "options": [
+          {
+            "label": "A. There are other volcanic eruptions on record that have been as destructive."
+          },
+          {
+            "label": "B. The majority of the death toll occurred in the time following the eruption.",
+            "correct": true
+          },
+          {
+            "label": "C. The environmental effects of the eruption were confined to Sumbawa and islands located nearby."
+          },
+          {
+            "label": "D. The crop damage in Western Europe was due to falling ash."
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-verbal-samples"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/en/verbal-testsAST",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "92512203-8d9f-531f-1ad6-f8b72ea23a87",
+        "type": "mcq",
+        "title": "EPSO Verbal Reasoning (official sample)",
+        "description": "Question 10 As the number of air passengers has increased, so has the political pressure to act to curb greenhouse gas emissions. A team of researchers from Britain and the US has come up with a revolutionary new jet aircraft design that could make a dramatic contribution to curbing climate change. The design is radically different from other aircraft, with a wedge-shaped body, no tail and small wings. Crucially, it could be 35 % more fuel-efficient than any airliner currently in use, but this does not necessarily mean that it will be built. Ever since the jet age began in 1957, commercial aircraft have changed very little in their basic appearance. Which of the following statements is correct?",
+        "options": [
+          {
+            "label": "A. The new aircraft is the most fuel-efficient airliner ever built"
+          },
+          {
+            "label": "B. The number of people travelling by air each year is expected to increase steadily"
+          },
+          {
+            "label": "C. The new aircraft will use less fuel than existing commercial jets because it has no tail"
+          },
+          {
+            "label": "D. The fuel economy afforded by the new design does not guarantee its eventual construction",
+            "correct": true
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-verbal-samples"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/en/verbal-testsAST",
+        "license": "CC-BY-4.0"
+      }
+    ],
+    "epso-language-comprehension": [
+      {
+        "id": "d5cb1a4e-3782-5aef-bce6-e97eebf5a5a5",
+        "type": "mcq",
+        "title": "EPSO Language Comprehension (official sample)",
+        "description": "What is the main idea of the passage?\n\n[Passage: Why the interest in top pay?]\n\nWhy the interest in top pay? 1. All eyes are on the extremes of the income spectrum at the moment. On the stonkingly rich side of the scale, we have rows about bankers’ bonuses and government proposals on top pay. Meanwhile, way down in the church mouse financial bracket, fates are being sealed by crucial votes in Parliament on levels of social security payments. 2. The same messages – about pay responsibility at the top and supposed benefit addiction at the bottom – reverberate from all sides of politics. There are some good reasons, in particular, for their belated interest in the pay packets at the top. After all, over three decades during which – as the UK High Pay Commission recorded – these often increased at tenfold the rate of rises for everyone else, the nation’s leaders did little but sigh that whatever will be will be. 3. So, one cheer for the sudden interest in top pay, but the next thought is: “Why just now?” The answer is not to be found at either financial extreme, but bang in the economic centre. The re is absolutely no doubt that this is what dictates whether elections are won or lost. 4. Typical pay has long been stagnant, and will more likely than not remain so for some while. The official income statistics record that median disposable family income has been stuck close to £400 a week for the best part of a decade, inching up by a mere annual average of 0.5% over eight years up to 2009/10. Long before the recent spike in inflation strained family budgets, then, middle Britain was experiencing a squeez e that the elite failed to spot, perhaps because – with easy credit – inadequate pay could be concealed with debt. 5. But it is not the case any more, of course. A recently published Resolution Foundation report exposes how hard times are biting the middle of society in all sorts of ways. Real wages have dipped 4% over the last year, and absolute levels of pay enjoyed just after the millennium will not be seen again for several years to come. 6. Pending cuts to tax credits will compound the misery, while the ol d British faith in an unstoppable tide of home ownership has also bitten the dust . For people up into their mid- 30s, renting versus buying is fast becoming the norm – soaring from 28% to 47% of occupancy in the last six years. 7. A bevy of politicians launched this singularly gloomy report. On Monday, MPs from a range of parties explored the “ squeezed middle ” themes recently popularised by leaders. Meanwhile, the Deputy Prime Minister – in a big speech for the foundation – returned to his own preferred characterisation of “alarm clock Britain”. 8. Such studied phrases, however, sometimes serve as a well -constructed smokescreen to mask not having substantive comments to share. The truth is that it is difficult to devise a credible plan not merely to boost the low est wages (a thorny enough problem ) but to win a rise for the bulk of the workforce. 9. Difficult, however, is not the same as impossible. Wages are only one slice of the pie of national income, albeit the largest one. And within that slice, the higher earne rs take a portion much bigger than their simple number would suggest or they ideally need to eat. 10. Recent speeches about refashioning capitalism – both from the Prime Minister and his cabinet members – are asking the right questions. However, for the quest for answers to be successful, they desperately need to focus more on how to foster decent jobs. Quite a leap of faith is needed to think that this will be achieved by the government’s populist moves against well - known ‘fat cats’, such as capping executive bonuses given as either cash or share options, and their dreamy talk of rebuilding the economy on the lines of John Lewis, a capitalist famous for having given his capital away. 11. The main opposition’s more detailed and complex thoughts on reforming compan y laws would limit executive remuneration and, more importantly, forcibly reduce the gap between the highest and lowest paid within companies. They are a little meatier, but still sketch no more than the first few marks on a blank sheet. 12. Our politicians, if they want to be honest with themselves, are currently scratching their heads for the answers. Those of all party allegiances need to escape from the confused intellectual discussion they are currently engaged in and develop real and feasible answers to the ever - growing issue of squeezed pay in the coming period. Source: The Guardian newspaper http://www.guardian.co.uk/society/2012/jan/24/why-sudden-interest-top-pay/print 3",
+        "options": [
+          {
+            "label": "Politicians are finally addressing high earners’ pay, but pay for those at the bottom end of the scale needs more attention.",
+            "correct": true
+          },
+          {
+            "label": "Politicians have long been concerned by the gap between top and low pay"
+          },
+          {
+            "label": "Politicians have been addressing high earners’ pay for a long time, but pay for people on low incomes needs more attention."
+          },
+          {
+            "label": "Politicians are finally addressing the problems of both top and low pay"
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-language-comprehension"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/sites/default/files/documents//general/sample_tests/language_comprehension_test/en.pdf",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "b40434eb-99e5-50a3-cdac-61d92464bddb",
+        "type": "mcq",
+        "title": "EPSO Language Comprehension (official sample)",
+        "description": "According to paragraph 2, what did successive governments do to deal with top pay?\n\n[Passage: Why the interest in top pay?]\n\nWhy the interest in top pay? 1. All eyes are on the extremes of the income spectrum at the moment. On the stonkingly rich side of the scale, we have rows about bankers’ bonuses and government proposals on top pay. Meanwhile, way down in the church mouse financial bracket, fates are being sealed by crucial votes in Parliament on levels of social security payments. 2. The same messages – about pay responsibility at the top and supposed benefit addiction at the bottom – reverberate from all sides of politics. There are some good reasons, in particular, for their belated interest in the pay packets at the top. After all, over three decades during which – as the UK High Pay Commission recorded – these often increased at tenfold the rate of rises for everyone else, the nation’s leaders did little but sigh that whatever will be will be. 3. So, one cheer for the sudden interest in top pay, but the next thought is: “Why just now?” The answer is not to be found at either financial extreme, but bang in the economic centre. The re is absolutely no doubt that this is what dictates whether elections are won or lost. 4. Typical pay has long been stagnant, and will more likely than not remain so for some while. The official income statistics record that median disposable family income has been stuck close to £400 a week for the best part of a decade, inching up by a mere annual average of 0.5% over eight years up to 2009/10. Long before the recent spike in inflation strained family budgets, then, middle Britain was experiencing a squeez e that the elite failed to spot, perhaps because – with easy credit – inadequate pay could be concealed with debt. 5. But it is not the case any more, of course. A recently published Resolution Foundation report exposes how hard times are biting the middle of society in all sorts of ways. Real wages have dipped 4% over the last year, and absolute levels of pay enjoyed just after the millennium will not be seen again for several years to come. 6. Pending cuts to tax credits will compound the misery, while the ol d British faith in an unstoppable tide of home ownership has also bitten the dust . For people up into their mid- 30s, renting versus buying is fast becoming the norm – soaring from 28% to 47% of occupancy in the last six years. 7. A bevy of politicians launched this singularly gloomy report. On Monday, MPs from a range of parties explored the “ squeezed middle ” themes recently popularised by leaders. Meanwhile, the Deputy Prime Minister – in a big speech for the foundation – returned to his own preferred characterisation of “alarm clock Britain”. 8. Such studied phrases, however, sometimes serve as a well -constructed smokescreen to mask not having substantive comments to share. The truth is that it is difficult to devise a credible plan not merely to boost the low est wages (a thorny enough problem ) but to win a rise for the bulk of the workforce. 9. Difficult, however, is not the same as impossible. Wages are only one slice of the pie of national income, albeit the largest one. And within that slice, the higher earne rs take a portion much bigger than their simple number would suggest or they ideally need to eat. 10. Recent speeches about refashioning capitalism – both from the Prime Minister and his cabinet members – are asking the right questions. However, for the quest for answers to be successful, they desperately need to focus more on how to foster decent jobs. Quite a leap of faith is needed to think that this will be achieved by the government’s populist moves against well - known ‘fat cats’, such as capping executive bonuses given as either cash or share options, and their dreamy talk of rebuilding the economy on the lines of John Lewis, a capitalist famous for having given his capital away. 11. The main opposition’s more detailed and complex thoughts on reforming compan y laws would limit executive remuneration and, more importantly, forcibly reduce the gap between the highest and lowest paid within companies. They are a little meatier, but still sketch no more than the first few marks on a blank sheet. 12. Our politicians, if they want to be honest with themselves, are currently scratching their heads for the answers. Those of all party allegiances need to escape from the confused intellectual discussion they are currently engaged in and develop real and feasible answers to the ever - growing issue of squeezed pay in the coming period. Source: The Guardian newspaper http://www.guardian.co.uk/society/2012/jan/24/why-sudden-interest-top-pay/print 3",
+        "options": [
+          {
+            "label": "They made promises to tackle it in the future"
+          },
+          {
+            "label": "They took coordinated action to limit it"
+          },
+          {
+            "label": "They took no effective action at all",
+            "correct": true
+          },
+          {
+            "label": "They did very little except condemn the increases"
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-language-comprehension"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/sites/default/files/documents//general/sample_tests/language_comprehension_test/en.pdf",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "29c13216-4f22-5d86-6fd1-0c6ad3d310c4",
+        "type": "mcq",
+        "title": "EPSO Language Comprehension (official sample)",
+        "description": "In paragraph 3, what does the word “this” refer to?\n\n[Passage: Why the interest in top pay?]\n\nWhy the interest in top pay? 1. All eyes are on the extremes of the income spectrum at the moment. On the stonkingly rich side of the scale, we have rows about bankers’ bonuses and government proposals on top pay. Meanwhile, way down in the church mouse financial bracket, fates are being sealed by crucial votes in Parliament on levels of social security payments. 2. The same messages – about pay responsibility at the top and supposed benefit addiction at the bottom – reverberate from all sides of politics. There are some good reasons, in particular, for their belated interest in the pay packets at the top. After all, over three decades during which – as the UK High Pay Commission recorded – these often increased at tenfold the rate of rises for everyone else, the nation’s leaders did little but sigh that whatever will be will be. 3. So, one cheer for the sudden interest in top pay, but the next thought is: “Why just now?” The answer is not to be found at either financial extreme, but bang in the economic centre. The re is absolutely no doubt that this is what dictates whether elections are won or lost. 4. Typical pay has long been stagnant, and will more likely than not remain so for some while. The official income statistics record that median disposable family income has been stuck close to £400 a week for the best part of a decade, inching up by a mere annual average of 0.5% over eight years up to 2009/10. Long before the recent spike in inflation strained family budgets, then, middle Britain was experiencing a squeez e that the elite failed to spot, perhaps because – with easy credit – inadequate pay could be concealed with debt. 5. But it is not the case any more, of course. A recently published Resolution Foundation report exposes how hard times are biting the middle of society in all sorts of ways. Real wages have dipped 4% over the last year, and absolute levels of pay enjoyed just after the millennium will not be seen again for several years to come. 6. Pending cuts to tax credits will compound the misery, while the ol d British faith in an unstoppable tide of home ownership has also bitten the dust . For people up into their mid- 30s, renting versus buying is fast becoming the norm – soaring from 28% to 47% of occupancy in the last six years. 7. A bevy of politicians launched this singularly gloomy report. On Monday, MPs from a range of parties explored the “ squeezed middle ” themes recently popularised by leaders. Meanwhile, the Deputy Prime Minister – in a big speech for the foundation – returned to his own preferred characterisation of “alarm clock Britain”. 8. Such studied phrases, however, sometimes serve as a well -constructed smokescreen to mask not having substantive comments to share. The truth is that it is difficult to devise a credible plan not merely to boost the low est wages (a thorny enough problem ) but to win a rise for the bulk of the workforce. 9. Difficult, however, is not the same as impossible. Wages are only one slice of the pie of national income, albeit the largest one. And within that slice, the higher earne rs take a portion much bigger than their simple number would suggest or they ideally need to eat. 10. Recent speeches about refashioning capitalism – both from the Prime Minister and his cabinet members – are asking the right questions. However, for the quest for answers to be successful, they desperately need to focus more on how to foster decent jobs. Quite a leap of faith is needed to think that this will be achieved by the government’s populist moves against well - known ‘fat cats’, such as capping executive bonuses given as either cash or share options, and their dreamy talk of rebuilding the economy on the lines of John Lewis, a capitalist famous for having given his capital away. 11. The main opposition’s more detailed and complex thoughts on reforming compan y laws would limit executive remuneration and, more importantly, forcibly reduce the gap between the highest and lowest paid within companies. They are a little meatier, but still sketch no more than the first few marks on a blank sheet. 12. Our politicians, if they want to be honest with themselves, are currently scratching their heads for the answers. Those of all party allegiances need to escape from the confused intellectual discussion they are currently engaged in and develop real and feasible answers to the ever - growing issue of squeezed pay in the coming period. Source: The Guardian newspaper http://www.guardian.co.uk/society/2012/jan/24/why-sudden-interest-top-pay/print 3",
+        "options": [
+          {
+            "label": "Interest in top pay"
+          },
+          {
+            "label": "The economic centre",
+            "correct": true
+          },
+          {
+            "label": "The answer"
+          },
+          {
+            "label": "The next thought"
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-language-comprehension"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/sites/default/files/documents//general/sample_tests/language_comprehension_test/en.pdf",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "64f9abbc-b729-5d89-3ee2-e1141ef19f3a",
+        "type": "mcq",
+        "title": "EPSO Language Comprehension (official sample)",
+        "description": "In paragraph 5, what does the word “it” refer to?\n\n[Passage: Why the interest in top pay?]\n\nWhy the interest in top pay? 1. All eyes are on the extremes of the income spectrum at the moment. On the stonkingly rich side of the scale, we have rows about bankers’ bonuses and government proposals on top pay. Meanwhile, way down in the church mouse financial bracket, fates are being sealed by crucial votes in Parliament on levels of social security payments. 2. The same messages – about pay responsibility at the top and supposed benefit addiction at the bottom – reverberate from all sides of politics. There are some good reasons, in particular, for their belated interest in the pay packets at the top. After all, over three decades during which – as the UK High Pay Commission recorded – these often increased at tenfold the rate of rises for everyone else, the nation’s leaders did little but sigh that whatever will be will be. 3. So, one cheer for the sudden interest in top pay, but the next thought is: “Why just now?” The answer is not to be found at either financial extreme, but bang in the economic centre. The re is absolutely no doubt that this is what dictates whether elections are won or lost. 4. Typical pay has long been stagnant, and will more likely than not remain so for some while. The official income statistics record that median disposable family income has been stuck close to £400 a week for the best part of a decade, inching up by a mere annual average of 0.5% over eight years up to 2009/10. Long before the recent spike in inflation strained family budgets, then, middle Britain was experiencing a squeez e that the elite failed to spot, perhaps because – with easy credit – inadequate pay could be concealed with debt. 5. But it is not the case any more, of course. A recently published Resolution Foundation report exposes how hard times are biting the middle of society in all sorts of ways. Real wages have dipped 4% over the last year, and absolute levels of pay enjoyed just after the millennium will not be seen again for several years to come. 6. Pending cuts to tax credits will compound the misery, while the ol d British faith in an unstoppable tide of home ownership has also bitten the dust . For people up into their mid- 30s, renting versus buying is fast becoming the norm – soaring from 28% to 47% of occupancy in the last six years. 7. A bevy of politicians launched this singularly gloomy report. On Monday, MPs from a range of parties explored the “ squeezed middle ” themes recently popularised by leaders. Meanwhile, the Deputy Prime Minister – in a big speech for the foundation – returned to his own preferred characterisation of “alarm clock Britain”. 8. Such studied phrases, however, sometimes serve as a well -constructed smokescreen to mask not having substantive comments to share. The truth is that it is difficult to devise a credible plan not merely to boost the low est wages (a thorny enough problem ) but to win a rise for the bulk of the workforce. 9. Difficult, however, is not the same as impossible. Wages are only one slice of the pie of national income, albeit the largest one. And within that slice, the higher earne rs take a portion much bigger than their simple number would suggest or they ideally need to eat. 10. Recent speeches about refashioning capitalism – both from the Prime Minister and his cabinet members – are asking the right questions. However, for the quest for answers to be successful, they desperately need to focus more on how to foster decent jobs. Quite a leap of faith is needed to think that this will be achieved by the government’s populist moves against well - known ‘fat cats’, such as capping executive bonuses given as either cash or share options, and their dreamy talk of rebuilding the economy on the lines of John Lewis, a capitalist famous for having given his capital away. 11. The main opposition’s more detailed and complex thoughts on reforming compan y laws would limit executive remuneration and, more importantly, forcibly reduce the gap between the highest and lowest paid within companies. They are a little meatier, but still sketch no more than the first few marks on a blank sheet. 12. Our politicians, if they want to be honest with themselves, are currently scratching their heads for the answers. Those of all party allegiances need to escape from the confused intellectual discussion they are currently engaged in and develop real and feasible answers to the ever - growing issue of squeezed pay in the coming period. Source: The Guardian newspaper http://www.guardian.co.uk/society/2012/jan/24/why-sudden-interest-top-pay/print 3",
+        "options": [
+          {
+            "label": "The fact that there has been a recent spike in inflation"
+          },
+          {
+            "label": "The fact that typical earners have built up a considerable level of debt"
+          },
+          {
+            "label": "The fact that it is easy to obtain credit"
+          },
+          {
+            "label": "The fact that the squeeze on the level of median earnings was not obvious",
+            "correct": true
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-language-comprehension"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/sites/default/files/documents//general/sample_tests/language_comprehension_test/en.pdf",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "7cf57e72-b600-5a77-af82-ce7ce124d894",
+        "type": "mcq",
+        "title": "EPSO Language Comprehension (official sample)",
+        "description": "How are the middle classes now being affected by the squeeze?\n\n[Passage: Why the interest in top pay?]\n\nWhy the interest in top pay? 1. All eyes are on the extremes of the income spectrum at the moment. On the stonkingly rich side of the scale, we have rows about bankers’ bonuses and government proposals on top pay. Meanwhile, way down in the church mouse financial bracket, fates are being sealed by crucial votes in Parliament on levels of social security payments. 2. The same messages – about pay responsibility at the top and supposed benefit addiction at the bottom – reverberate from all sides of politics. There are some good reasons, in particular, for their belated interest in the pay packets at the top. After all, over three decades during which – as the UK High Pay Commission recorded – these often increased at tenfold the rate of rises for everyone else, the nation’s leaders did little but sigh that whatever will be will be. 3. So, one cheer for the sudden interest in top pay, but the next thought is: “Why just now?” The answer is not to be found at either financial extreme, but bang in the economic centre. The re is absolutely no doubt that this is what dictates whether elections are won or lost. 4. Typical pay has long been stagnant, and will more likely than not remain so for some while. The official income statistics record that median disposable family income has been stuck close to £400 a week for the best part of a decade, inching up by a mere annual average of 0.5% over eight years up to 2009/10. Long before the recent spike in inflation strained family budgets, then, middle Britain was experiencing a squeez e that the elite failed to spot, perhaps because – with easy credit – inadequate pay could be concealed with debt. 5. But it is not the case any more, of course. A recently published Resolution Foundation report exposes how hard times are biting the middle of society in all sorts of ways. Real wages have dipped 4% over the last year, and absolute levels of pay enjoyed just after the millennium will not be seen again for several years to come. 6. Pending cuts to tax credits will compound the misery, while the ol d British faith in an unstoppable tide of home ownership has also bitten the dust . For people up into their mid- 30s, renting versus buying is fast becoming the norm – soaring from 28% to 47% of occupancy in the last six years. 7. A bevy of politicians launched this singularly gloomy report. On Monday, MPs from a range of parties explored the “ squeezed middle ” themes recently popularised by leaders. Meanwhile, the Deputy Prime Minister – in a big speech for the foundation – returned to his own preferred characterisation of “alarm clock Britain”. 8. Such studied phrases, however, sometimes serve as a well -constructed smokescreen to mask not having substantive comments to share. The truth is that it is difficult to devise a credible plan not merely to boost the low est wages (a thorny enough problem ) but to win a rise for the bulk of the workforce. 9. Difficult, however, is not the same as impossible. Wages are only one slice of the pie of national income, albeit the largest one. And within that slice, the higher earne rs take a portion much bigger than their simple number would suggest or they ideally need to eat. 10. Recent speeches about refashioning capitalism – both from the Prime Minister and his cabinet members – are asking the right questions. However, for the quest for answers to be successful, they desperately need to focus more on how to foster decent jobs. Quite a leap of faith is needed to think that this will be achieved by the government’s populist moves against well - known ‘fat cats’, such as capping executive bonuses given as either cash or share options, and their dreamy talk of rebuilding the economy on the lines of John Lewis, a capitalist famous for having given his capital away. 11. The main opposition’s more detailed and complex thoughts on reforming compan y laws would limit executive remuneration and, more importantly, forcibly reduce the gap between the highest and lowest paid within companies. They are a little meatier, but still sketch no more than the first few marks on a blank sheet. 12. Our politicians, if they want to be honest with themselves, are currently scratching their heads for the answers. Those of all party allegiances need to escape from the confused intellectual discussion they are currently engaged in and develop real and feasible answers to the ever - growing issue of squeezed pay in the coming period. Source: The Guardian newspaper http://www.guardian.co.uk/society/2012/jan/24/why-sudden-interest-top-pay/print 3",
+        "options": [
+          {
+            "label": "Their real incomes are fluctuating and they are renting less"
+          },
+          {
+            "label": "Their real incomes are lower and they will benefit from tax cuts"
+          },
+          {
+            "label": "Their real incomes are lower and they face rising taxes",
+            "correct": true
+          },
+          {
+            "label": "Their real incomes are fluctuating and they are buying fewer homes"
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-language-comprehension"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/sites/default/files/documents//general/sample_tests/language_comprehension_test/en.pdf",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "bcfb4016-2226-50ae-1f19-0ee70b2a74d9",
+        "type": "mcq",
+        "title": "EPSO Language Comprehension (official sample)",
+        "description": "In paragraph 6, what does the phrase “bitten the dust” mean?\n\n[Passage: Why the interest in top pay?]\n\nWhy the interest in top pay? 1. All eyes are on the extremes of the income spectrum at the moment. On the stonkingly rich side of the scale, we have rows about bankers’ bonuses and government proposals on top pay. Meanwhile, way down in the church mouse financial bracket, fates are being sealed by crucial votes in Parliament on levels of social security payments. 2. The same messages – about pay responsibility at the top and supposed benefit addiction at the bottom – reverberate from all sides of politics. There are some good reasons, in particular, for their belated interest in the pay packets at the top. After all, over three decades during which – as the UK High Pay Commission recorded – these often increased at tenfold the rate of rises for everyone else, the nation’s leaders did little but sigh that whatever will be will be. 3. So, one cheer for the sudden interest in top pay, but the next thought is: “Why just now?” The answer is not to be found at either financial extreme, but bang in the economic centre. The re is absolutely no doubt that this is what dictates whether elections are won or lost. 4. Typical pay has long been stagnant, and will more likely than not remain so for some while. The official income statistics record that median disposable family income has been stuck close to £400 a week for the best part of a decade, inching up by a mere annual average of 0.5% over eight years up to 2009/10. Long before the recent spike in inflation strained family budgets, then, middle Britain was experiencing a squeez e that the elite failed to spot, perhaps because – with easy credit – inadequate pay could be concealed with debt. 5. But it is not the case any more, of course. A recently published Resolution Foundation report exposes how hard times are biting the middle of society in all sorts of ways. Real wages have dipped 4% over the last year, and absolute levels of pay enjoyed just after the millennium will not be seen again for several years to come. 6. Pending cuts to tax credits will compound the misery, while the ol d British faith in an unstoppable tide of home ownership has also bitten the dust . For people up into their mid- 30s, renting versus buying is fast becoming the norm – soaring from 28% to 47% of occupancy in the last six years. 7. A bevy of politicians launched this singularly gloomy report. On Monday, MPs from a range of parties explored the “ squeezed middle ” themes recently popularised by leaders. Meanwhile, the Deputy Prime Minister – in a big speech for the foundation – returned to his own preferred characterisation of “alarm clock Britain”. 8. Such studied phrases, however, sometimes serve as a well -constructed smokescreen to mask not having substantive comments to share. The truth is that it is difficult to devise a credible plan not merely to boost the low est wages (a thorny enough problem ) but to win a rise for the bulk of the workforce. 9. Difficult, however, is not the same as impossible. Wages are only one slice of the pie of national income, albeit the largest one. And within that slice, the higher earne rs take a portion much bigger than their simple number would suggest or they ideally need to eat. 10. Recent speeches about refashioning capitalism – both from the Prime Minister and his cabinet members – are asking the right questions. However, for the quest for answers to be successful, they desperately need to focus more on how to foster decent jobs. Quite a leap of faith is needed to think that this will be achieved by the government’s populist moves against well - known ‘fat cats’, such as capping executive bonuses given as either cash or share options, and their dreamy talk of rebuilding the economy on the lines of John Lewis, a capitalist famous for having given his capital away. 11. The main opposition’s more detailed and complex thoughts on reforming compan y laws would limit executive remuneration and, more importantly, forcibly reduce the gap between the highest and lowest paid within companies. They are a little meatier, but still sketch no more than the first few marks on a blank sheet. 12. Our politicians, if they want to be honest with themselves, are currently scratching their heads for the answers. Those of all party allegiances need to escape from the confused intellectual discussion they are currently engaged in and develop real and feasible answers to the ever - growing issue of squeezed pay in the coming period. Source: The Guardian newspaper http://www.guardian.co.uk/society/2012/jan/24/why-sudden-interest-top-pay/print 3",
+        "options": [
+          {
+            "label": "Had to face reality"
+          },
+          {
+            "label": "Disappeared completely",
+            "correct": true
+          },
+          {
+            "label": "Diminished 4"
+          },
+          {
+            "label": "Been exposed as doubtful"
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-language-comprehension"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/sites/default/files/documents//general/sample_tests/language_comprehension_test/en.pdf",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "8bf88556-e950-5df2-482f-b77b57fc371a",
+        "type": "mcq",
+        "title": "EPSO Language Comprehension (official sample)",
+        "description": "In paragraph 7, what does the word “bevy” mean?\n\n[Passage: Why the interest in top pay?]\n\nWhy the interest in top pay? 1. All eyes are on the extremes of the income spectrum at the moment. On the stonkingly rich side of the scale, we have rows about bankers’ bonuses and government proposals on top pay. Meanwhile, way down in the church mouse financial bracket, fates are being sealed by crucial votes in Parliament on levels of social security payments. 2. The same messages – about pay responsibility at the top and supposed benefit addiction at the bottom – reverberate from all sides of politics. There are some good reasons, in particular, for their belated interest in the pay packets at the top. After all, over three decades during which – as the UK High Pay Commission recorded – these often increased at tenfold the rate of rises for everyone else, the nation’s leaders did little but sigh that whatever will be will be. 3. So, one cheer for the sudden interest in top pay, but the next thought is: “Why just now?” The answer is not to be found at either financial extreme, but bang in the economic centre. The re is absolutely no doubt that this is what dictates whether elections are won or lost. 4. Typical pay has long been stagnant, and will more likely than not remain so for some while. The official income statistics record that median disposable family income has been stuck close to £400 a week for the best part of a decade, inching up by a mere annual average of 0.5% over eight years up to 2009/10. Long before the recent spike in inflation strained family budgets, then, middle Britain was experiencing a squeez e that the elite failed to spot, perhaps because – with easy credit – inadequate pay could be concealed with debt. 5. But it is not the case any more, of course. A recently published Resolution Foundation report exposes how hard times are biting the middle of society in all sorts of ways. Real wages have dipped 4% over the last year, and absolute levels of pay enjoyed just after the millennium will not be seen again for several years to come. 6. Pending cuts to tax credits will compound the misery, while the ol d British faith in an unstoppable tide of home ownership has also bitten the dust . For people up into their mid- 30s, renting versus buying is fast becoming the norm – soaring from 28% to 47% of occupancy in the last six years. 7. A bevy of politicians launched this singularly gloomy report. On Monday, MPs from a range of parties explored the “ squeezed middle ” themes recently popularised by leaders. Meanwhile, the Deputy Prime Minister – in a big speech for the foundation – returned to his own preferred characterisation of “alarm clock Britain”. 8. Such studied phrases, however, sometimes serve as a well -constructed smokescreen to mask not having substantive comments to share. The truth is that it is difficult to devise a credible plan not merely to boost the low est wages (a thorny enough problem ) but to win a rise for the bulk of the workforce. 9. Difficult, however, is not the same as impossible. Wages are only one slice of the pie of national income, albeit the largest one. And within that slice, the higher earne rs take a portion much bigger than their simple number would suggest or they ideally need to eat. 10. Recent speeches about refashioning capitalism – both from the Prime Minister and his cabinet members – are asking the right questions. However, for the quest for answers to be successful, they desperately need to focus more on how to foster decent jobs. Quite a leap of faith is needed to think that this will be achieved by the government’s populist moves against well - known ‘fat cats’, such as capping executive bonuses given as either cash or share options, and their dreamy talk of rebuilding the economy on the lines of John Lewis, a capitalist famous for having given his capital away. 11. The main opposition’s more detailed and complex thoughts on reforming compan y laws would limit executive remuneration and, more importantly, forcibly reduce the gap between the highest and lowest paid within companies. They are a little meatier, but still sketch no more than the first few marks on a blank sheet. 12. Our politicians, if they want to be honest with themselves, are currently scratching their heads for the answers. Those of all party allegiances need to escape from the confused intellectual discussion they are currently engaged in and develop real and feasible answers to the ever - growing issue of squeezed pay in the coming period. Source: The Guardian newspaper http://www.guardian.co.uk/society/2012/jan/24/why-sudden-interest-top-pay/print 3",
+        "options": [
+          {
+            "label": "An interested group"
+          },
+          {
+            "label": "A select group"
+          },
+          {
+            "label": "A depressed group"
+          },
+          {
+            "label": "A large group",
+            "correct": true
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-language-comprehension"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/sites/default/files/documents//general/sample_tests/language_comprehension_test/en.pdf",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "7363495c-a848-5c83-0d57-8321b5982bbb",
+        "type": "mcq",
+        "title": "EPSO Language Comprehension (official sample)",
+        "description": "In paragraph 8, what does the author suggest about politicians’ key phrases?\n\n[Passage: Why the interest in top pay?]\n\nWhy the interest in top pay? 1. All eyes are on the extremes of the income spectrum at the moment. On the stonkingly rich side of the scale, we have rows about bankers’ bonuses and government proposals on top pay. Meanwhile, way down in the church mouse financial bracket, fates are being sealed by crucial votes in Parliament on levels of social security payments. 2. The same messages – about pay responsibility at the top and supposed benefit addiction at the bottom – reverberate from all sides of politics. There are some good reasons, in particular, for their belated interest in the pay packets at the top. After all, over three decades during which – as the UK High Pay Commission recorded – these often increased at tenfold the rate of rises for everyone else, the nation’s leaders did little but sigh that whatever will be will be. 3. So, one cheer for the sudden interest in top pay, but the next thought is: “Why just now?” The answer is not to be found at either financial extreme, but bang in the economic centre. The re is absolutely no doubt that this is what dictates whether elections are won or lost. 4. Typical pay has long been stagnant, and will more likely than not remain so for some while. The official income statistics record that median disposable family income has been stuck close to £400 a week for the best part of a decade, inching up by a mere annual average of 0.5% over eight years up to 2009/10. Long before the recent spike in inflation strained family budgets, then, middle Britain was experiencing a squeez e that the elite failed to spot, perhaps because – with easy credit – inadequate pay could be concealed with debt. 5. But it is not the case any more, of course. A recently published Resolution Foundation report exposes how hard times are biting the middle of society in all sorts of ways. Real wages have dipped 4% over the last year, and absolute levels of pay enjoyed just after the millennium will not be seen again for several years to come. 6. Pending cuts to tax credits will compound the misery, while the ol d British faith in an unstoppable tide of home ownership has also bitten the dust . For people up into their mid- 30s, renting versus buying is fast becoming the norm – soaring from 28% to 47% of occupancy in the last six years. 7. A bevy of politicians launched this singularly gloomy report. On Monday, MPs from a range of parties explored the “ squeezed middle ” themes recently popularised by leaders. Meanwhile, the Deputy Prime Minister – in a big speech for the foundation – returned to his own preferred characterisation of “alarm clock Britain”. 8. Such studied phrases, however, sometimes serve as a well -constructed smokescreen to mask not having substantive comments to share. The truth is that it is difficult to devise a credible plan not merely to boost the low est wages (a thorny enough problem ) but to win a rise for the bulk of the workforce. 9. Difficult, however, is not the same as impossible. Wages are only one slice of the pie of national income, albeit the largest one. And within that slice, the higher earne rs take a portion much bigger than their simple number would suggest or they ideally need to eat. 10. Recent speeches about refashioning capitalism – both from the Prime Minister and his cabinet members – are asking the right questions. However, for the quest for answers to be successful, they desperately need to focus more on how to foster decent jobs. Quite a leap of faith is needed to think that this will be achieved by the government’s populist moves against well - known ‘fat cats’, such as capping executive bonuses given as either cash or share options, and their dreamy talk of rebuilding the economy on the lines of John Lewis, a capitalist famous for having given his capital away. 11. The main opposition’s more detailed and complex thoughts on reforming compan y laws would limit executive remuneration and, more importantly, forcibly reduce the gap between the highest and lowest paid within companies. They are a little meatier, but still sketch no more than the first few marks on a blank sheet. 12. Our politicians, if they want to be honest with themselves, are currently scratching their heads for the answers. Those of all party allegiances need to escape from the confused intellectual discussion they are currently engaged in and develop real and feasible answers to the ever - growing issue of squeezed pay in the coming period. Source: The Guardian newspaper http://www.guardian.co.uk/society/2012/jan/24/why-sudden-interest-top-pay/print 3",
+        "options": [
+          {
+            "label": "They are well-researched"
+          },
+          {
+            "label": "They are powerful"
+          },
+          {
+            "label": "They are deceptive",
+            "correct": true
+          },
+          {
+            "label": "They are believable"
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-language-comprehension"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/sites/default/files/documents//general/sample_tests/language_comprehension_test/en.pdf",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "27cb0e7d-2e0b-5778-16fb-19d866bd0162",
+        "type": "mcq",
+        "title": "EPSO Language Comprehension (official sample)",
+        "description": "In paragraph 8, what does the phrase “a thorny enough problem” mean?\n\n[Passage: Why the interest in top pay?]\n\nWhy the interest in top pay? 1. All eyes are on the extremes of the income spectrum at the moment. On the stonkingly rich side of the scale, we have rows about bankers’ bonuses and government proposals on top pay. Meanwhile, way down in the church mouse financial bracket, fates are being sealed by crucial votes in Parliament on levels of social security payments. 2. The same messages – about pay responsibility at the top and supposed benefit addiction at the bottom – reverberate from all sides of politics. There are some good reasons, in particular, for their belated interest in the pay packets at the top. After all, over three decades during which – as the UK High Pay Commission recorded – these often increased at tenfold the rate of rises for everyone else, the nation’s leaders did little but sigh that whatever will be will be. 3. So, one cheer for the sudden interest in top pay, but the next thought is: “Why just now?” The answer is not to be found at either financial extreme, but bang in the economic centre. The re is absolutely no doubt that this is what dictates whether elections are won or lost. 4. Typical pay has long been stagnant, and will more likely than not remain so for some while. The official income statistics record that median disposable family income has been stuck close to £400 a week for the best part of a decade, inching up by a mere annual average of 0.5% over eight years up to 2009/10. Long before the recent spike in inflation strained family budgets, then, middle Britain was experiencing a squeez e that the elite failed to spot, perhaps because – with easy credit – inadequate pay could be concealed with debt. 5. But it is not the case any more, of course. A recently published Resolution Foundation report exposes how hard times are biting the middle of society in all sorts of ways. Real wages have dipped 4% over the last year, and absolute levels of pay enjoyed just after the millennium will not be seen again for several years to come. 6. Pending cuts to tax credits will compound the misery, while the ol d British faith in an unstoppable tide of home ownership has also bitten the dust . For people up into their mid- 30s, renting versus buying is fast becoming the norm – soaring from 28% to 47% of occupancy in the last six years. 7. A bevy of politicians launched this singularly gloomy report. On Monday, MPs from a range of parties explored the “ squeezed middle ” themes recently popularised by leaders. Meanwhile, the Deputy Prime Minister – in a big speech for the foundation – returned to his own preferred characterisation of “alarm clock Britain”. 8. Such studied phrases, however, sometimes serve as a well -constructed smokescreen to mask not having substantive comments to share. The truth is that it is difficult to devise a credible plan not merely to boost the low est wages (a thorny enough problem ) but to win a rise for the bulk of the workforce. 9. Difficult, however, is not the same as impossible. Wages are only one slice of the pie of national income, albeit the largest one. And within that slice, the higher earne rs take a portion much bigger than their simple number would suggest or they ideally need to eat. 10. Recent speeches about refashioning capitalism – both from the Prime Minister and his cabinet members – are asking the right questions. However, for the quest for answers to be successful, they desperately need to focus more on how to foster decent jobs. Quite a leap of faith is needed to think that this will be achieved by the government’s populist moves against well - known ‘fat cats’, such as capping executive bonuses given as either cash or share options, and their dreamy talk of rebuilding the economy on the lines of John Lewis, a capitalist famous for having given his capital away. 11. The main opposition’s more detailed and complex thoughts on reforming compan y laws would limit executive remuneration and, more importantly, forcibly reduce the gap between the highest and lowest paid within companies. They are a little meatier, but still sketch no more than the first few marks on a blank sheet. 12. Our politicians, if they want to be honest with themselves, are currently scratching their heads for the answers. Those of all party allegiances need to escape from the confused intellectual discussion they are currently engaged in and develop real and feasible answers to the ever - growing issue of squeezed pay in the coming period. Source: The Guardian newspaper http://www.guardian.co.uk/society/2012/jan/24/why-sudden-interest-top-pay/print 3",
+        "options": [
+          {
+            "label": "A problem that will be very costly to solve"
+          },
+          {
+            "label": "A rather difficult problem to solve",
+            "correct": true
+          },
+          {
+            "label": "A problem that poses considerable risks"
+          },
+          {
+            "label": "A confusing problem"
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-language-comprehension"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/sites/default/files/documents//general/sample_tests/language_comprehension_test/en.pdf",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "14f7b89a-66d4-5552-326c-a3ecf2585702",
+        "type": "mcq",
+        "title": "EPSO Language Comprehension (official sample)",
+        "description": "In paragraph 10, how does the author feel about the aims put forward in government speeches?\n\n[Passage: Why the interest in top pay?]\n\nWhy the interest in top pay? 1. All eyes are on the extremes of the income spectrum at the moment. On the stonkingly rich side of the scale, we have rows about bankers’ bonuses and government proposals on top pay. Meanwhile, way down in the church mouse financial bracket, fates are being sealed by crucial votes in Parliament on levels of social security payments. 2. The same messages – about pay responsibility at the top and supposed benefit addiction at the bottom – reverberate from all sides of politics. There are some good reasons, in particular, for their belated interest in the pay packets at the top. After all, over three decades during which – as the UK High Pay Commission recorded – these often increased at tenfold the rate of rises for everyone else, the nation’s leaders did little but sigh that whatever will be will be. 3. So, one cheer for the sudden interest in top pay, but the next thought is: “Why just now?” The answer is not to be found at either financial extreme, but bang in the economic centre. The re is absolutely no doubt that this is what dictates whether elections are won or lost. 4. Typical pay has long been stagnant, and will more likely than not remain so for some while. The official income statistics record that median disposable family income has been stuck close to £400 a week for the best part of a decade, inching up by a mere annual average of 0.5% over eight years up to 2009/10. Long before the recent spike in inflation strained family budgets, then, middle Britain was experiencing a squeez e that the elite failed to spot, perhaps because – with easy credit – inadequate pay could be concealed with debt. 5. But it is not the case any more, of course. A recently published Resolution Foundation report exposes how hard times are biting the middle of society in all sorts of ways. Real wages have dipped 4% over the last year, and absolute levels of pay enjoyed just after the millennium will not be seen again for several years to come. 6. Pending cuts to tax credits will compound the misery, while the ol d British faith in an unstoppable tide of home ownership has also bitten the dust . For people up into their mid- 30s, renting versus buying is fast becoming the norm – soaring from 28% to 47% of occupancy in the last six years. 7. A bevy of politicians launched this singularly gloomy report. On Monday, MPs from a range of parties explored the “ squeezed middle ” themes recently popularised by leaders. Meanwhile, the Deputy Prime Minister – in a big speech for the foundation – returned to his own preferred characterisation of “alarm clock Britain”. 8. Such studied phrases, however, sometimes serve as a well -constructed smokescreen to mask not having substantive comments to share. The truth is that it is difficult to devise a credible plan not merely to boost the low est wages (a thorny enough problem ) but to win a rise for the bulk of the workforce. 9. Difficult, however, is not the same as impossible. Wages are only one slice of the pie of national income, albeit the largest one. And within that slice, the higher earne rs take a portion much bigger than their simple number would suggest or they ideally need to eat. 10. Recent speeches about refashioning capitalism – both from the Prime Minister and his cabinet members – are asking the right questions. However, for the quest for answers to be successful, they desperately need to focus more on how to foster decent jobs. Quite a leap of faith is needed to think that this will be achieved by the government’s populist moves against well - known ‘fat cats’, such as capping executive bonuses given as either cash or share options, and their dreamy talk of rebuilding the economy on the lines of John Lewis, a capitalist famous for having given his capital away. 11. The main opposition’s more detailed and complex thoughts on reforming compan y laws would limit executive remuneration and, more importantly, forcibly reduce the gap between the highest and lowest paid within companies. They are a little meatier, but still sketch no more than the first few marks on a blank sheet. 12. Our politicians, if they want to be honest with themselves, are currently scratching their heads for the answers. Those of all party allegiances need to escape from the confused intellectual discussion they are currently engaged in and develop real and feasible answers to the ever - growing issue of squeezed pay in the coming period. Source: The Guardian newspaper http://www.guardian.co.uk/society/2012/jan/24/why-sudden-interest-top-pay/print 3",
+        "options": [
+          {
+            "label": "They are promising, but insufficient",
+            "correct": true
+          },
+          {
+            "label": "They are too vague"
+          },
+          {
+            "label": "They are too skewed toward the public"
+          },
+          {
+            "label": "They could succeed, but lack belief"
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-language-comprehension"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/sites/default/files/documents//general/sample_tests/language_comprehension_test/en.pdf",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "5bef2eec-dd2d-565f-3123-47155594c5e6",
+        "type": "mcq",
+        "title": "EPSO Language Comprehension (official sample)",
+        "description": "In paragraph 10, what does the word “capping” mean?\n\n[Passage: Why the interest in top pay?]\n\nWhy the interest in top pay? 1. All eyes are on the extremes of the income spectrum at the moment. On the stonkingly rich side of the scale, we have rows about bankers’ bonuses and government proposals on top pay. Meanwhile, way down in the church mouse financial bracket, fates are being sealed by crucial votes in Parliament on levels of social security payments. 2. The same messages – about pay responsibility at the top and supposed benefit addiction at the bottom – reverberate from all sides of politics. There are some good reasons, in particular, for their belated interest in the pay packets at the top. After all, over three decades during which – as the UK High Pay Commission recorded – these often increased at tenfold the rate of rises for everyone else, the nation’s leaders did little but sigh that whatever will be will be. 3. So, one cheer for the sudden interest in top pay, but the next thought is: “Why just now?” The answer is not to be found at either financial extreme, but bang in the economic centre. The re is absolutely no doubt that this is what dictates whether elections are won or lost. 4. Typical pay has long been stagnant, and will more likely than not remain so for some while. The official income statistics record that median disposable family income has been stuck close to £400 a week for the best part of a decade, inching up by a mere annual average of 0.5% over eight years up to 2009/10. Long before the recent spike in inflation strained family budgets, then, middle Britain was experiencing a squeez e that the elite failed to spot, perhaps because – with easy credit – inadequate pay could be concealed with debt. 5. But it is not the case any more, of course. A recently published Resolution Foundation report exposes how hard times are biting the middle of society in all sorts of ways. Real wages have dipped 4% over the last year, and absolute levels of pay enjoyed just after the millennium will not be seen again for several years to come. 6. Pending cuts to tax credits will compound the misery, while the ol d British faith in an unstoppable tide of home ownership has also bitten the dust . For people up into their mid- 30s, renting versus buying is fast becoming the norm – soaring from 28% to 47% of occupancy in the last six years. 7. A bevy of politicians launched this singularly gloomy report. On Monday, MPs from a range of parties explored the “ squeezed middle ” themes recently popularised by leaders. Meanwhile, the Deputy Prime Minister – in a big speech for the foundation – returned to his own preferred characterisation of “alarm clock Britain”. 8. Such studied phrases, however, sometimes serve as a well -constructed smokescreen to mask not having substantive comments to share. The truth is that it is difficult to devise a credible plan not merely to boost the low est wages (a thorny enough problem ) but to win a rise for the bulk of the workforce. 9. Difficult, however, is not the same as impossible. Wages are only one slice of the pie of national income, albeit the largest one. And within that slice, the higher earne rs take a portion much bigger than their simple number would suggest or they ideally need to eat. 10. Recent speeches about refashioning capitalism – both from the Prime Minister and his cabinet members – are asking the right questions. However, for the quest for answers to be successful, they desperately need to focus more on how to foster decent jobs. Quite a leap of faith is needed to think that this will be achieved by the government’s populist moves against well - known ‘fat cats’, such as capping executive bonuses given as either cash or share options, and their dreamy talk of rebuilding the economy on the lines of John Lewis, a capitalist famous for having given his capital away. 11. The main opposition’s more detailed and complex thoughts on reforming compan y laws would limit executive remuneration and, more importantly, forcibly reduce the gap between the highest and lowest paid within companies. They are a little meatier, but still sketch no more than the first few marks on a blank sheet. 12. Our politicians, if they want to be honest with themselves, are currently scratching their heads for the answers. Those of all party allegiances need to escape from the confused intellectual discussion they are currently engaged in and develop real and feasible answers to the ever - growing issue of squeezed pay in the coming period. Source: The Guardian newspaper http://www.guardian.co.uk/society/2012/jan/24/why-sudden-interest-top-pay/print 3",
+        "options": [
+          {
+            "label": "Limiting",
+            "correct": true
+          },
+          {
+            "label": "Reclaiming"
+          },
+          {
+            "label": "Criminalising"
+          },
+          {
+            "label": "Taxing"
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-language-comprehension"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/sites/default/files/documents//general/sample_tests/language_comprehension_test/en.pdf",
+        "license": "CC-BY-4.0"
+      },
+      {
+        "id": "ae1c0241-8a96-50e7-b1cd-7bea1e359bc8",
+        "type": "mcq",
+        "title": "EPSO Language Comprehension (official sample)",
+        "description": "In paragraph 12, what does the author think politicians should do?\n\n[Passage: Why the interest in top pay?]\n\nWhy the interest in top pay? 1. All eyes are on the extremes of the income spectrum at the moment. On the stonkingly rich side of the scale, we have rows about bankers’ bonuses and government proposals on top pay. Meanwhile, way down in the church mouse financial bracket, fates are being sealed by crucial votes in Parliament on levels of social security payments. 2. The same messages – about pay responsibility at the top and supposed benefit addiction at the bottom – reverberate from all sides of politics. There are some good reasons, in particular, for their belated interest in the pay packets at the top. After all, over three decades during which – as the UK High Pay Commission recorded – these often increased at tenfold the rate of rises for everyone else, the nation’s leaders did little but sigh that whatever will be will be. 3. So, one cheer for the sudden interest in top pay, but the next thought is: “Why just now?” The answer is not to be found at either financial extreme, but bang in the economic centre. The re is absolutely no doubt that this is what dictates whether elections are won or lost. 4. Typical pay has long been stagnant, and will more likely than not remain so for some while. The official income statistics record that median disposable family income has been stuck close to £400 a week for the best part of a decade, inching up by a mere annual average of 0.5% over eight years up to 2009/10. Long before the recent spike in inflation strained family budgets, then, middle Britain was experiencing a squeez e that the elite failed to spot, perhaps because – with easy credit – inadequate pay could be concealed with debt. 5. But it is not the case any more, of course. A recently published Resolution Foundation report exposes how hard times are biting the middle of society in all sorts of ways. Real wages have dipped 4% over the last year, and absolute levels of pay enjoyed just after the millennium will not be seen again for several years to come. 6. Pending cuts to tax credits will compound the misery, while the ol d British faith in an unstoppable tide of home ownership has also bitten the dust . For people up into their mid- 30s, renting versus buying is fast becoming the norm – soaring from 28% to 47% of occupancy in the last six years. 7. A bevy of politicians launched this singularly gloomy report. On Monday, MPs from a range of parties explored the “ squeezed middle ” themes recently popularised by leaders. Meanwhile, the Deputy Prime Minister – in a big speech for the foundation – returned to his own preferred characterisation of “alarm clock Britain”. 8. Such studied phrases, however, sometimes serve as a well -constructed smokescreen to mask not having substantive comments to share. The truth is that it is difficult to devise a credible plan not merely to boost the low est wages (a thorny enough problem ) but to win a rise for the bulk of the workforce. 9. Difficult, however, is not the same as impossible. Wages are only one slice of the pie of national income, albeit the largest one. And within that slice, the higher earne rs take a portion much bigger than their simple number would suggest or they ideally need to eat. 10. Recent speeches about refashioning capitalism – both from the Prime Minister and his cabinet members – are asking the right questions. However, for the quest for answers to be successful, they desperately need to focus more on how to foster decent jobs. Quite a leap of faith is needed to think that this will be achieved by the government’s populist moves against well - known ‘fat cats’, such as capping executive bonuses given as either cash or share options, and their dreamy talk of rebuilding the economy on the lines of John Lewis, a capitalist famous for having given his capital away. 11. The main opposition’s more detailed and complex thoughts on reforming compan y laws would limit executive remuneration and, more importantly, forcibly reduce the gap between the highest and lowest paid within companies. They are a little meatier, but still sketch no more than the first few marks on a blank sheet. 12. Our politicians, if they want to be honest with themselves, are currently scratching their heads for the answers. Those of all party allegiances need to escape from the confused intellectual discussion they are currently engaged in and develop real and feasible answers to the ever - growing issue of squeezed pay in the coming period. Source: The Guardian newspaper http://www.guardian.co.uk/society/2012/jan/24/why-sudden-interest-top-pay/print 3",
+        "options": [
+          {
+            "label": "Work together more closely 5"
+          },
+          {
+            "label": "Propose less confused solutions"
+          },
+          {
+            "label": "Be more honest with people"
+          },
+          {
+            "label": "Take concrete action",
+            "correct": true
+          }
+        ],
+        "difficulty": "medium",
+        "tags": [
+          "epso",
+          "official-sample",
+          "epso-language-comprehension"
+        ],
+        "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+        "sourceUrl": "https://eu-careers.europa.eu/sites/default/files/documents//general/sample_tests/language_comprehension_test/en.pdf",
+        "license": "CC-BY-4.0"
+      }
+    ]
+  },
+  "contentHash": "sha256-4aab55731098eb6899407e711bbed2537e52603755ba9b628075a6e8da712e59"
+}

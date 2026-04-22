@@ -1,0 +1,68 @@
+[
+  {
+    "word": "castigate",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/castigate-au.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729305",
+        "license": {
+          "name": "BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      },
+      {
+        "text": "/ˈkæs.tə.ɡeɪt/",
+        "audio": ""
+      },
+      {
+        "text": "/ˈkæs.tə.ɡeɪt/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/castigate-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=3483292",
+        "license": {
+          "name": "BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To punish or reprimand someone severely.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To execrate or condemn something in a harsh manner, especially by public criticism.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "To revise or make corrections to a publication.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "condemn",
+          "lambaste",
+          "chastise",
+          "punish",
+          "rebuke",
+          "reprimand",
+          "correct",
+          "revise"
+        ],
+        "antonyms": []
+      }
+    ],
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "sourceUrls": [
+      "https://en.wiktionary.org/wiki/castigate"
+    ]
+  }
+]

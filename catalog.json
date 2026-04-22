@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-04-22",
+  "packs": [
+    {
+      "packId": "epso-samples",
+      "version": "1.0.0",
+      "name": "EPSO — Official Sample Tests",
+      "description": "22 authentic MCQs from EPSO's published sample tests (verbal, numerical, abstract reasoning + language comprehension). Sourced from eu-careers.europa.eu under CC BY 4.0.",
+      "category": "exam-prep",
+      "license": "CC-BY-4.0",
+      "source": "EPSO official sample tests (eu-careers.europa.eu) — CC BY 4.0 via EU Reuse Decision 2011/833/EU",
+      "url": "packs/epso-samples-v1.json",
+      "questionCount": 22,
+      "sizeBytes": 88120,
+      "contentHash": "sha256-4aab55731098eb6899407e711bbed2537e52603755ba9b628075a6e8da712e59",
+      "tier": "free",
+      "updatedAt": "2026-04-22"
+    },
+    {
+      "packId": "gre-vocab-cloze",
+      "version": "1.0.0",
+      "name": "GRE High-Frequency Vocabulary — Cloze",
+      "description": "\"Fill-in-the-blank\" MCQs over 13 high-frequency GRE words. Sentences are authentic Wiktionary examples (CC BY-SA 3.0); distractors are other GRE words of the same part of speech.",
+      "category": "gre-vocab",
+      "license": "CC-BY-SA-3.0",
+      "source": "Wiktionary example sentences (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+      "url": "packs/gre-vocab-cloze-v1.json",
+      "questionCount": 13,
+      "sizeBytes": 14796,
+      "contentHash": "sha256-ed346564b9096f6f253ef7b0585d202fb60d9d8ce88cfd8ca4c76c2400daeb72",
+      "tier": "free",
+      "updatedAt": "2026-04-22"
+    },
+    {
+      "packId": "gre-vocab-defmatch",
+      "version": "1.0.0",
+      "name": "GRE High-Frequency Vocabulary — Definition Match",
+      "description": "\"Which word means X?\" MCQs over 50 high-frequency GRE words. Definitions from Wiktionary (CC BY-SA 3.0), word selection compiled from public GRE frequency lists.",
+      "category": "gre-vocab",
+      "license": "CC-BY-SA-3.0",
+      "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+      "url": "packs/gre-vocab-defmatch-v1.json",
+      "questionCount": 50,
+      "sizeBytes": 50944,
+      "contentHash": "sha256-6fa2d6d8e54629656645c3d6d0d2be5db10a93a63888f7cc837880464acdade1",
+      "tier": "free",
+      "updatedAt": "2026-04-22"
+    }
+  ]
+}

@@ -1,0 +1,1616 @@
+{
+  "packId": "gre-vocab-defmatch",
+  "version": "1.0.0",
+  "name": "GRE High-Frequency Vocabulary — Definition Match",
+  "description": "\"Which word means X?\" MCQs over 50 high-frequency GRE words. Definitions from Wiktionary (CC BY-SA 3.0), word selection compiled from public GRE frequency lists.",
+  "contributor": "Hamster team",
+  "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+  "license": "CC-BY-SA-3.0",
+  "updatedAt": "2026-04-22",
+  "questionCount": 50,
+  "sets": {
+    "gre-vocab-defmatch": [
+      {
+        "id": "05b9d205-900d-5296-d5ba-5a8246652cb9",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"To moderate; to lessen in force, intensity, to subside.\"?",
+        "options": [
+          {
+            "label": "abate",
+            "correct": true
+          },
+          {
+            "label": "corroborate"
+          },
+          {
+            "label": "censure"
+          },
+          {
+            "label": "antipathy"
+          }
+        ],
+        "explanation": "abate (verb): To moderate; to lessen in force, intensity, to subside.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/abate",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "36ffab95-e402-5dda-0773-09f648aff390",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"To flee, often secretly; to steal away, particularly to avoid arrest or prosecution.\"?",
+        "options": [
+          {
+            "label": "enervate"
+          },
+          {
+            "label": "contrition"
+          },
+          {
+            "label": "audacious"
+          },
+          {
+            "label": "abscond",
+            "correct": true
+          }
+        ],
+        "explanation": "abscond (verb): To flee, often secretly; to steal away, particularly to avoid arrest or prosecution.\n\nExample: The thieves absconded with our property.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/abscond",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "79cc686c-ee2b-50a3-06f0-69ba8564753c",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"The act of wandering; deviation from truth, moral rectitude; abnormal; divergence from the straight, correct, proper, normal, or from the natural state.\"?",
+        "options": [
+          {
+            "label": "dearth"
+          },
+          {
+            "label": "alacrity"
+          },
+          {
+            "label": "elegy"
+          },
+          {
+            "label": "aberration",
+            "correct": true
+          }
+        ],
+        "explanation": "aberration (noun): The act of wandering; deviation from truth, moral rectitude; abnormal; divergence from the straight, correct, proper, normal, or from the natural state.\n\nExample: aberration of character",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/aberration",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "9939a68e-d205-59c3-8d2a-85d262b3db7e",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Difficult to comprehend or understand.\"?",
+        "options": [
+          {
+            "label": "commensurate"
+          },
+          {
+            "label": "decorum"
+          },
+          {
+            "label": "antipathy"
+          },
+          {
+            "label": "abstruse",
+            "correct": true
+          }
+        ],
+        "explanation": "abstruse (adjective): Difficult to comprehend or understand.",
+        "difficulty": "hard",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/abstruse",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "91a274fe-6e16-5007-d394-d7697ca83024",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Tasting sour or bitter.\"?",
+        "options": [
+          {
+            "label": "elegy"
+          },
+          {
+            "label": "cogent"
+          },
+          {
+            "label": "acerbic",
+            "correct": true
+          },
+          {
+            "label": "abate"
+          }
+        ],
+        "explanation": "acerbic (adjective): Tasting sour or bitter.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/acerbic",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "c82033a8-a6e6-58f3-e850-0daeafadaff3",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Quickness of perception or discernment; penetration of mind; the faculty of nice discrimination.\"?",
+        "options": [
+          {
+            "label": "castigate"
+          },
+          {
+            "label": "conflagration"
+          },
+          {
+            "label": "acumen",
+            "correct": true
+          },
+          {
+            "label": "contrition"
+          }
+        ],
+        "explanation": "acumen (noun): Quickness of perception or discernment; penetration of mind; the faculty of nice discrimination.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/acumen",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "cdb66b11-33de-512a-b432-e2f05741f449",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Eagerness; liveliness; enthusiasm.\"?",
+        "options": [
+          {
+            "label": "eclectic"
+          },
+          {
+            "label": "diffident"
+          },
+          {
+            "label": "elegy"
+          },
+          {
+            "label": "alacrity",
+            "correct": true
+          }
+        ],
+        "explanation": "alacrity (noun): Eagerness; liveliness; enthusiasm.",
+        "difficulty": "hard",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/alacrity",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "a87322bb-ac98-557e-e077-43743a03921e",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"A chronological mistake; the erroneous dating of an event, circumstance, or object.\"?",
+        "options": [
+          {
+            "label": "audacious"
+          },
+          {
+            "label": "anachronism",
+            "correct": true
+          },
+          {
+            "label": "commensurate"
+          },
+          {
+            "label": "chicanery"
+          }
+        ],
+        "explanation": "anachronism (noun): A chronological mistake; the erroneous dating of an event, circumstance, or object.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/anachronism",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "fa24976f-d4fc-532d-0293-012523252787",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"A ban or curse pronounced with religious solemnity by ecclesiastical authority, often accompanied by excommunication; something denounced as accursed.\"?",
+        "options": [
+          {
+            "label": "approbation"
+          },
+          {
+            "label": "anathema",
+            "correct": true
+          },
+          {
+            "label": "efficacious"
+          },
+          {
+            "label": "copious"
+          }
+        ],
+        "explanation": "anathema (noun): A ban or curse pronounced with religious solemnity by ecclesiastical authority, often accompanied by excommunication; something denounced as accursed.",
+        "difficulty": "hard",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/anathema",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "8b2f396d-6edd-5430-6cc6-50ebe540e481",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"A feeling of dislike (normally towards someone, less often towards something); repugnance or distaste.\"?",
+        "options": [
+          {
+            "label": "cogent"
+          },
+          {
+            "label": "antipathy",
+            "correct": true
+          },
+          {
+            "label": "copious"
+          },
+          {
+            "label": "anachronism"
+          }
+        ],
+        "explanation": "antipathy (noun): A feeling of dislike (normally towards someone, less often towards something); repugnance or distaste.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/antipathy",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "93cd010b-e6f8-554b-bd08-b5d0908d40db",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"The act of approving; an assenting to the propriety of a thing with some degree of pleasure or satisfaction; approval, sanction, commendation or official recognition.\"?",
+        "options": [
+          {
+            "label": "demagogue"
+          },
+          {
+            "label": "approbation",
+            "correct": true
+          },
+          {
+            "label": "corroborate"
+          },
+          {
+            "label": "abstruse"
+          }
+        ],
+        "explanation": "approbation (noun): The act of approving; an assenting to the propriety of a thing with some degree of pleasure or satisfaction; approval, sanction, commendation or official recognition.",
+        "difficulty": "hard",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/approbation",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "34e4cd5e-12da-5f05-f4c2-2f6f3f6ca600",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Understood by only a few.\"?",
+        "options": [
+          {
+            "label": "arcane",
+            "correct": true
+          },
+          {
+            "label": "daunt"
+          },
+          {
+            "label": "corroborate"
+          },
+          {
+            "label": "bellicose"
+          }
+        ],
+        "explanation": "arcane (adjective): Understood by only a few.\n\nExample: arcane rituals",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/arcane",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "09a29c66-083e-53ff-0f65-47b563b3d49d",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Characterized by rigorous self-denial or self-discipline; austere; abstinent; involving a withholding of physical pleasure.\"?",
+        "options": [
+          {
+            "label": "ascetic",
+            "correct": true
+          },
+          {
+            "label": "equanimity"
+          },
+          {
+            "label": "egregious"
+          },
+          {
+            "label": "capricious"
+          }
+        ],
+        "explanation": "ascetic (adjective): Characterized by rigorous self-denial or self-discipline; austere; abstinent; involving a withholding of physical pleasure.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/ascetic",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "652b8b95-0ec1-59c0-d4ba-d5f5a1497987",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"To lessen the intensity of, to mitigate or relieve (hunger, emotion, pain etc.).\"?",
+        "options": [
+          {
+            "label": "diffident"
+          },
+          {
+            "label": "bellicose"
+          },
+          {
+            "label": "assuage",
+            "correct": true
+          },
+          {
+            "label": "belie"
+          }
+        ],
+        "explanation": "assuage (verb): To lessen the intensity of, to mitigate or relieve (hunger, emotion, pain etc.).",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/assuage",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "ef441cda-1659-5fc4-6667-a20280cc693c",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Showing willingness to take bold risks; recklessly daring.\"?",
+        "options": [
+          {
+            "label": "audacious",
+            "correct": true
+          },
+          {
+            "label": "aberration"
+          },
+          {
+            "label": "conflagration"
+          },
+          {
+            "label": "arcane"
+          }
+        ],
+        "explanation": "audacious (adjective): Showing willingness to take bold risks; recklessly daring.",
+        "difficulty": "easy",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/audacious",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "6bf55d6f-f468-5132-6809-4019e65a2c8f",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"To lie around; encompass.\"?",
+        "options": [
+          {
+            "label": "demagogue"
+          },
+          {
+            "label": "arcane"
+          },
+          {
+            "label": "belie",
+            "correct": true
+          },
+          {
+            "label": "cogent"
+          }
+        ],
+        "explanation": "belie (verb): To lie around; encompass.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/belie",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "657ac631-6dbf-5757-88cb-e197686ce5f2",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Warlike in nature; aggressive; hostile.\"?",
+        "options": [
+          {
+            "label": "assuage"
+          },
+          {
+            "label": "bellicose",
+            "correct": true
+          },
+          {
+            "label": "arcane"
+          },
+          {
+            "label": "abstruse"
+          }
+        ],
+        "explanation": "bellicose (adjective): Warlike in nature; aggressive; hostile.",
+        "difficulty": "hard",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/bellicose",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "c9c70942-7f23-504f-a073-222de731bdd9",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"To use; enjoy; have the full employment of.\"?",
+        "options": [
+          {
+            "label": "contrition"
+          },
+          {
+            "label": "brook",
+            "correct": true
+          },
+          {
+            "label": "castigate"
+          },
+          {
+            "label": "copious"
+          }
+        ],
+        "explanation": "brook (verb): To use; enjoy; have the full employment of.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/brook",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "60d73f42-f6ea-5e0a-8ccf-c9a8fa96b0f3",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"To grow or expand.\"?",
+        "options": [
+          {
+            "label": "belie"
+          },
+          {
+            "label": "censure"
+          },
+          {
+            "label": "burgeon",
+            "correct": true
+          },
+          {
+            "label": "bellicose"
+          }
+        ],
+        "explanation": "burgeon (verb): To grow or expand.\n\nExample: Gradually, the town burgeoned into a thriving city.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/burgeon",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "94ae7215-3696-5da4-4b18-cc4467dd09af",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"A mix of discordant sounds; dissonance.\"?",
+        "options": [
+          {
+            "label": "cacophony",
+            "correct": true
+          },
+          {
+            "label": "deleterious"
+          },
+          {
+            "label": "dogmatic"
+          },
+          {
+            "label": "abstruse"
+          }
+        ],
+        "explanation": "cacophony (noun): A mix of discordant sounds; dissonance.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/cacophony",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "04a4028d-d2fe-5d95-1d08-bf79bdd766b1",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Impulsive and unpredictable; determined by chance, impulse, or whim\"?",
+        "options": [
+          {
+            "label": "anathema"
+          },
+          {
+            "label": "commensurate"
+          },
+          {
+            "label": "cacophony"
+          },
+          {
+            "label": "capricious",
+            "correct": true
+          }
+        ],
+        "explanation": "capricious (adjective): Impulsive and unpredictable; determined by chance, impulse, or whim\n\nExample: I almost died in a capricious winter storm.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/capricious",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "563c366f-2186-559e-1025-19b8691eb563",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"To punish or reprimand someone severely.\"?",
+        "options": [
+          {
+            "label": "circumspect"
+          },
+          {
+            "label": "corroborate"
+          },
+          {
+            "label": "anachronism"
+          },
+          {
+            "label": "castigate",
+            "correct": true
+          }
+        ],
+        "explanation": "castigate (verb): To punish or reprimand someone severely.",
+        "difficulty": "hard",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/castigate",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "976f30c9-8400-5f51-abda-951237ad812f",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"To criticize harshly.\"?",
+        "options": [
+          {
+            "label": "censure",
+            "correct": true
+          },
+          {
+            "label": "castigate"
+          },
+          {
+            "label": "denigrate"
+          },
+          {
+            "label": "acumen"
+          }
+        ],
+        "explanation": "censure (verb): To criticize harshly.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/censure",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "5f69764c-adc7-5da3-df00-045be8a3d80a",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Deception by use of trickery, quibbling, or subterfuge.\"?",
+        "options": [
+          {
+            "label": "chicanery",
+            "correct": true
+          },
+          {
+            "label": "denigrate"
+          },
+          {
+            "label": "castigate"
+          },
+          {
+            "label": "equanimity"
+          }
+        ],
+        "explanation": "chicanery (noun): Deception by use of trickery, quibbling, or subterfuge.",
+        "difficulty": "hard",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/chicanery",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "7ed97b08-e016-5002-d745-00accf6cb8bc",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Carefully aware of all circumstances; considerate of all that is pertinent.\"?",
+        "options": [
+          {
+            "label": "cacophony"
+          },
+          {
+            "label": "abstruse"
+          },
+          {
+            "label": "circumspect",
+            "correct": true
+          },
+          {
+            "label": "connoisseur"
+          }
+        ],
+        "explanation": "circumspect (adjective): Carefully aware of all circumstances; considerate of all that is pertinent.\n\nExample: Being aware of the danger of upsetting her audience, she was somewhat circumspect in her comments.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/circumspect",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "f7661cc5-a700-5831-0e42-681cc06753dd",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Reasonable and convincing; based on evidence.\"?",
+        "options": [
+          {
+            "label": "bellicose"
+          },
+          {
+            "label": "cogent",
+            "correct": true
+          },
+          {
+            "label": "enervate"
+          },
+          {
+            "label": "efficacious"
+          }
+        ],
+        "explanation": "cogent (adjective): Reasonable and convincing; based on evidence.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/cogent",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "bb608feb-bb1c-595d-b70c-1eaf4596a392",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Of a proportionate or similar measurable standard.\"?",
+        "options": [
+          {
+            "label": "dearth"
+          },
+          {
+            "label": "equanimity"
+          },
+          {
+            "label": "anachronism"
+          },
+          {
+            "label": "commensurate",
+            "correct": true
+          }
+        ],
+        "explanation": "commensurate (adjective): Of a proportionate or similar measurable standard.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/commensurate",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "b3225558-b9d7-59cf-6780-efa6b6d3cf87",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"A pricking of conscience or a feeling of regret, especially one which is slight or fleeting.\"?",
+        "options": [
+          {
+            "label": "commensurate"
+          },
+          {
+            "label": "compunction",
+            "correct": true
+          },
+          {
+            "label": "ephemeral"
+          },
+          {
+            "label": "antipathy"
+          }
+        ],
+        "explanation": "compunction (noun): A pricking of conscience or a feeling of regret, especially one which is slight or fleeting.",
+        "difficulty": "hard",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/compunction",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "9a51bb2e-bbb7-5689-b22e-ae0833f3dc0d",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"A large fire extending to many objects, or over a large space; a general burning.\"?",
+        "options": [
+          {
+            "label": "conflagration",
+            "correct": true
+          },
+          {
+            "label": "acumen"
+          },
+          {
+            "label": "abscond"
+          },
+          {
+            "label": "ebullient"
+          }
+        ],
+        "explanation": "conflagration (noun): A large fire extending to many objects, or over a large space; a general burning.\n\nExample: It took sixty firefighters to put out the conflagration.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/conflagration",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "59c01d93-4577-537a-f248-2a475286f29a",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"A specialist in a given field whose opinion is highly valued, especially in one of the fine arts or in matters of taste\"?",
+        "options": [
+          {
+            "label": "capricious"
+          },
+          {
+            "label": "connoisseur",
+            "correct": true
+          },
+          {
+            "label": "dogmatic"
+          },
+          {
+            "label": "decorum"
+          }
+        ],
+        "explanation": "connoisseur (noun): A specialist in a given field whose opinion is highly valued, especially in one of the fine arts or in matters of taste",
+        "difficulty": "easy",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/connoisseur",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "e79c365c-61a8-5c3c-e43a-c141296db3b3",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"The state of being contrite; sincere penitence or remorse.\"?",
+        "options": [
+          {
+            "label": "brook"
+          },
+          {
+            "label": "contrition",
+            "correct": true
+          },
+          {
+            "label": "deleterious"
+          },
+          {
+            "label": "decorum"
+          }
+        ],
+        "explanation": "contrition (noun): The state of being contrite; sincere penitence or remorse.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/contrition",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "9e2f56c8-6b44-56c2-e5ee-c377833e4d50",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Vast in quantity or number, profuse, abundant; taking place on a large scale.\"?",
+        "options": [
+          {
+            "label": "contrition"
+          },
+          {
+            "label": "commensurate"
+          },
+          {
+            "label": "copious",
+            "correct": true
+          },
+          {
+            "label": "corroborate"
+          }
+        ],
+        "explanation": "copious (adjective): Vast in quantity or number, profuse, abundant; taking place on a large scale.",
+        "difficulty": "easy",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/copious",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "ea298895-0417-5878-e1ec-9bd123e3b4c6",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"To confirm or support something with additional evidence; to attest or vouch for.\"?",
+        "options": [
+          {
+            "label": "corroborate",
+            "correct": true
+          },
+          {
+            "label": "elegy"
+          },
+          {
+            "label": "ephemeral"
+          },
+          {
+            "label": "acumen"
+          }
+        ],
+        "explanation": "corroborate (verb): To confirm or support something with additional evidence; to attest or vouch for.",
+        "difficulty": "easy",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/corroborate",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "ae94e18a-33f7-5e38-997c-2dd79635bc5e",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"To discourage, intimidate.\"?",
+        "options": [
+          {
+            "label": "corroborate"
+          },
+          {
+            "label": "commensurate"
+          },
+          {
+            "label": "alacrity"
+          },
+          {
+            "label": "daunt",
+            "correct": true
+          }
+        ],
+        "explanation": "daunt (verb): To discourage, intimidate.",
+        "difficulty": "easy",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/daunt",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "b09d1145-4382-52e2-577a-9f426b454b38",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"A period or condition when food is rare and hence expensive; famine.\"?",
+        "options": [
+          {
+            "label": "belie"
+          },
+          {
+            "label": "acumen"
+          },
+          {
+            "label": "dearth",
+            "correct": true
+          },
+          {
+            "label": "audacious"
+          }
+        ],
+        "explanation": "dearth (noun): A period or condition when food is rare and hence expensive; famine.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/dearth",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "1ea565b3-fe91-5ba5-192f-ed74f2e90c5d",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Appropriate social behavior.\"?",
+        "options": [
+          {
+            "label": "decorum",
+            "correct": true
+          },
+          {
+            "label": "acumen"
+          },
+          {
+            "label": "brook"
+          },
+          {
+            "label": "cacophony"
+          }
+        ],
+        "explanation": "decorum (noun): Appropriate social behavior.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/decorum",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "702e7710-5653-5e39-bb2f-7769d41137de",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Harmful often in a subtle or unexpected way.\"?",
+        "options": [
+          {
+            "label": "anachronism"
+          },
+          {
+            "label": "deleterious",
+            "correct": true
+          },
+          {
+            "label": "aberration"
+          },
+          {
+            "label": "eclectic"
+          }
+        ],
+        "explanation": "deleterious (adjective): Harmful often in a subtle or unexpected way.\n\nExample: deleterious effects",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/deleterious",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "290f7730-2ce4-54d8-9c66-15bd1a31ffce",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"A political orator or leader who gains favor by pandering to or exciting the passions and prejudices of the audience rather than by using rational argument.\"?",
+        "options": [
+          {
+            "label": "copious"
+          },
+          {
+            "label": "ephemeral"
+          },
+          {
+            "label": "demagogue",
+            "correct": true
+          },
+          {
+            "label": "bellicose"
+          }
+        ],
+        "explanation": "demagogue (noun): A political orator or leader who gains favor by pandering to or exciting the passions and prejudices of the audience rather than by using rational argument.",
+        "difficulty": "hard",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/demagogue",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "524bfa45-beca-58ed-1bf8-7ec9e1ce7b26",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"To criticise so as to besmirch; traduce, disparage or defame.\"?",
+        "options": [
+          {
+            "label": "denigrate",
+            "correct": true
+          },
+          {
+            "label": "conflagration"
+          },
+          {
+            "label": "connoisseur"
+          },
+          {
+            "label": "acerbic"
+          }
+        ],
+        "explanation": "denigrate (verb): To criticise so as to besmirch; traduce, disparage or defame.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/denigrate",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "c899f792-0850-5956-66eb-3f1fb5740ba2",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Lacking confidence in others; distrustful.\"?",
+        "options": [
+          {
+            "label": "arcane"
+          },
+          {
+            "label": "dearth"
+          },
+          {
+            "label": "ephemeral"
+          },
+          {
+            "label": "diffident",
+            "correct": true
+          }
+        ],
+        "explanation": "diffident (adjective): Lacking confidence in others; distrustful.",
+        "difficulty": "hard",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/diffident",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "49ac7c8f-6472-5e3e-2786-a58c8a4043b5",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"To match unequally; to degrade or dishonor.\"?",
+        "options": [
+          {
+            "label": "cacophony"
+          },
+          {
+            "label": "disparage",
+            "correct": true
+          },
+          {
+            "label": "antipathy"
+          },
+          {
+            "label": "efficacious"
+          }
+        ],
+        "explanation": "disparage (verb): To match unequally; to degrade or dishonor.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/disparage",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "7ed9e192-b0dc-5d4e-92c2-b6ceb44e4f91",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Asserting dogmas or beliefs in a superior or arrogant way; opinionated, dictatorial.\"?",
+        "options": [
+          {
+            "label": "daunt"
+          },
+          {
+            "label": "copious"
+          },
+          {
+            "label": "dogmatic",
+            "correct": true
+          },
+          {
+            "label": "equanimity"
+          }
+        ],
+        "explanation": "dogmatic (adjective): Asserting dogmas or beliefs in a superior or arrogant way; opinionated, dictatorial.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/dogmatic",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "98906b12-248b-5eb7-c3cb-dfe617534e11",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Enthusiastic; high-spirited.\"?",
+        "options": [
+          {
+            "label": "anachronism"
+          },
+          {
+            "label": "ebullient",
+            "correct": true
+          },
+          {
+            "label": "cogent"
+          },
+          {
+            "label": "equanimity"
+          }
+        ],
+        "explanation": "ebullient (adjective): Enthusiastic; high-spirited.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/ebullient",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "1a4e1bc0-a2e2-591b-beed-01d5c604528e",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Selecting a mixture of what appears to be best of various doctrines, methods or styles.\"?",
+        "options": [
+          {
+            "label": "brook"
+          },
+          {
+            "label": "enervate"
+          },
+          {
+            "label": "acerbic"
+          },
+          {
+            "label": "eclectic",
+            "correct": true
+          }
+        ],
+        "explanation": "eclectic (adjective): Selecting a mixture of what appears to be best of various doctrines, methods or styles.",
+        "difficulty": "easy",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/eclectic",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "88cfbd97-c2e6-5b81-ed39-3069b8b6013e",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Effective; possessing efficacy.\"?",
+        "options": [
+          {
+            "label": "abscond"
+          },
+          {
+            "label": "denigrate"
+          },
+          {
+            "label": "audacious"
+          },
+          {
+            "label": "efficacious",
+            "correct": true
+          }
+        ],
+        "explanation": "efficacious (adjective): Effective; possessing efficacy.\n\nExample: This medicine is efficacious.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/efficacious",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "67661ef8-203a-506a-f92d-5a92784f6879",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Usually in a negative sense: conspicuous, exceptional, outstanding.\"?",
+        "options": [
+          {
+            "label": "denigrate"
+          },
+          {
+            "label": "deleterious"
+          },
+          {
+            "label": "egregious",
+            "correct": true
+          },
+          {
+            "label": "connoisseur"
+          }
+        ],
+        "explanation": "egregious (adjective): Usually in a negative sense: conspicuous, exceptional, outstanding.\n\nExample: The student has made egregious errors on the examination.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/egregious",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "27527f93-8752-5649-2a2c-f37a728bd251",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"A mournful or plaintive poem; a funeral song; a poem of lamentation.\"?",
+        "options": [
+          {
+            "label": "connoisseur"
+          },
+          {
+            "label": "demagogue"
+          },
+          {
+            "label": "ebullient"
+          },
+          {
+            "label": "elegy",
+            "correct": true
+          }
+        ],
+        "explanation": "elegy (noun): A mournful or plaintive poem; a funeral song; a poem of lamentation.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/elegy",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "a2955020-4e6b-5bac-b2f4-8fa5f05e795c",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"To reduce strength or energy; debilitate.\"?",
+        "options": [
+          {
+            "label": "enervate",
+            "correct": true
+          },
+          {
+            "label": "decorum"
+          },
+          {
+            "label": "cacophony"
+          },
+          {
+            "label": "anachronism"
+          }
+        ],
+        "explanation": "enervate (verb): To reduce strength or energy; debilitate.\n\nExample: After being laid off three times in a row, she felt too enervated to look for another job.",
+        "difficulty": "hard",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/enervate",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "0775c3c3-9af6-5cb9-a6ad-6180922f2fb8",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"Lasting for a short period of time.\"?",
+        "options": [
+          {
+            "label": "ebullient"
+          },
+          {
+            "label": "arcane"
+          },
+          {
+            "label": "alacrity"
+          },
+          {
+            "label": "ephemeral",
+            "correct": true
+          }
+        ],
+        "explanation": "ephemeral (adjective): Lasting for a short period of time.",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/ephemeral",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "3627a50e-16a8-5256-75e8-8f600f639158",
+        "type": "mcq",
+        "title": "GRE Vocabulary",
+        "description": "Which word means: \"The state of being calm, stable and composed, especially under stress.\"?",
+        "options": [
+          {
+            "label": "equanimity",
+            "correct": true
+          },
+          {
+            "label": "elegy"
+          },
+          {
+            "label": "efficacious"
+          },
+          {
+            "label": "conflagration"
+          }
+        ],
+        "explanation": "equanimity (noun): The state of being calm, stable and composed, especially under stress.",
+        "difficulty": "hard",
+        "tags": [
+          "gre",
+          "vocab",
+          "defmatch",
+          "high-freq"
+        ],
+        "source": "Wiktionary (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/equanimity",
+        "license": "CC-BY-SA-3.0"
+      }
+    ]
+  },
+  "contentHash": "sha256-6fa2d6d8e54629656645c3d6d0d2be5db10a93a63888f7cc837880464acdade1"
+}

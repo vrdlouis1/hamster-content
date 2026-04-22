@@ -1,0 +1,432 @@
+{
+  "packId": "gre-vocab-cloze",
+  "version": "1.0.0",
+  "name": "GRE High-Frequency Vocabulary — Cloze",
+  "description": "\"Fill-in-the-blank\" MCQs over 13 high-frequency GRE words. Sentences are authentic Wiktionary examples (CC BY-SA 3.0); distractors are other GRE words of the same part of speech.",
+  "contributor": "Hamster team",
+  "source": "Wiktionary example sentences (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+  "license": "CC-BY-SA-3.0",
+  "updatedAt": "2026-04-22",
+  "questionCount": 13,
+  "sets": {
+    "gre-vocab-cloze": [
+      {
+        "id": "6a3d9007-9ddf-5d3b-649b-fff4c6d85ae8",
+        "type": "cloze",
+        "title": "GRE Vocabulary (cloze)",
+        "description": "Which word, in the appropriate form, completes the sentence?\n\n\"The thieves ____ with our property.\"",
+        "options": [
+          {
+            "label": "denigrate"
+          },
+          {
+            "label": "abscond",
+            "correct": true
+          },
+          {
+            "label": "enervate"
+          },
+          {
+            "label": "brook"
+          }
+        ],
+        "explanation": "abscond (verb): To flee, often secretly; to steal away, particularly to avoid arrest or prosecution.\n\nOriginal form in sentence: absconded",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "cloze",
+          "high-freq"
+        ],
+        "source": "Wiktionary example sentences (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/abscond",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "61f48fff-a929-55f5-7739-58083376752b",
+        "type": "cloze",
+        "title": "GRE Vocabulary (cloze)",
+        "description": "Which word, in the appropriate form, completes the sentence?\n\n\"oil and water have ____\"",
+        "options": [
+          {
+            "label": "antipathy",
+            "correct": true
+          },
+          {
+            "label": "abscond"
+          },
+          {
+            "label": "belie"
+          },
+          {
+            "label": "circumspect"
+          }
+        ],
+        "explanation": "antipathy (noun): Natural contrariety or incompatibility\n\nOriginal form in sentence: antipathy",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "cloze",
+          "high-freq"
+        ],
+        "source": "Wiktionary example sentences (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/antipathy",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "88d88856-41bb-5870-2fa3-62216a1bf5d0",
+        "type": "cloze",
+        "title": "GRE Vocabulary (cloze)",
+        "description": "Which word, in the appropriate form, completes the sentence?\n\n\"Her obvious nervousness ____ what she said.\"",
+        "options": [
+          {
+            "label": "burgeon"
+          },
+          {
+            "label": "belie",
+            "correct": true
+          },
+          {
+            "label": "enervate"
+          },
+          {
+            "label": "abscond"
+          }
+        ],
+        "explanation": "belie (verb): To contradict, to show (something) to be false.\n\nOriginal form in sentence: belied",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "cloze",
+          "high-freq"
+        ],
+        "source": "Wiktionary example sentences (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/belie",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "03089f2b-2010-5035-4fe5-63d559e1046e",
+        "type": "cloze",
+        "title": "GRE Vocabulary (cloze)",
+        "description": "Which word, in the appropriate form, completes the sentence?\n\n\"I will not ____ any disobedience.   I will ____ no refusal.   I will ____ no impertinence.\"",
+        "options": [
+          {
+            "label": "belie"
+          },
+          {
+            "label": "denigrate"
+          },
+          {
+            "label": "brook",
+            "correct": true
+          },
+          {
+            "label": "enervate"
+          }
+        ],
+        "explanation": "brook (verb): To bear; endure; support; put up with; tolerate (usually used in the negative, with an abstract noun as object).\n\nOriginal form in sentence: brook",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "cloze",
+          "high-freq"
+        ],
+        "source": "Wiktionary example sentences (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/brook",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "29c87043-877c-5764-c295-a6243d364239",
+        "type": "cloze",
+        "title": "GRE Vocabulary (cloze)",
+        "description": "Which word, in the appropriate form, completes the sentence?\n\n\"Gradually, the town ____ into a thriving city.\"",
+        "options": [
+          {
+            "label": "abscond"
+          },
+          {
+            "label": "belie"
+          },
+          {
+            "label": "burgeon",
+            "correct": true
+          },
+          {
+            "label": "brook"
+          }
+        ],
+        "explanation": "burgeon (verb): To grow or expand.\n\nOriginal form in sentence: burgeoned",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "cloze",
+          "high-freq"
+        ],
+        "source": "Wiktionary example sentences (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/burgeon",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "8491ab89-e990-5e28-486b-c60808d4c332",
+        "type": "cloze",
+        "title": "GRE Vocabulary (cloze)",
+        "description": "Which word, in the appropriate form, completes the sentence?\n\n\"I almost died in a ____ winter storm.\"",
+        "options": [
+          {
+            "label": "egregious"
+          },
+          {
+            "label": "cogent"
+          },
+          {
+            "label": "capricious",
+            "correct": true
+          },
+          {
+            "label": "circumspect"
+          }
+        ],
+        "explanation": "capricious (adjective): Impulsive and unpredictable; determined by chance, impulse, or whim\n\nOriginal form in sentence: capricious",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "cloze",
+          "high-freq"
+        ],
+        "source": "Wiktionary example sentences (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/capricious",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "c82ec884-c464-5a0e-7e9f-48ad3913e947",
+        "type": "cloze",
+        "title": "GRE Vocabulary (cloze)",
+        "description": "Which word, in the appropriate form, completes the sentence?\n\n\"Being aware of the danger of upsetting her audience, she was somewhat ____ in her comments.\"",
+        "options": [
+          {
+            "label": "egregious"
+          },
+          {
+            "label": "circumspect",
+            "correct": true
+          },
+          {
+            "label": "capricious"
+          },
+          {
+            "label": "efficacious"
+          }
+        ],
+        "explanation": "circumspect (adjective): Carefully aware of all circumstances; considerate of all that is pertinent.\n\nOriginal form in sentence: circumspect",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "cloze",
+          "high-freq"
+        ],
+        "source": "Wiktionary example sentences (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/circumspect",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "4b2dfc99-4fdb-5f3b-7d6c-add0d1659601",
+        "type": "cloze",
+        "title": "GRE Vocabulary (cloze)",
+        "description": "Which word, in the appropriate form, completes the sentence?\n\n\"The prosecution presented a ____ argument, convincing the jury of the defendant's guilt.\"",
+        "options": [
+          {
+            "label": "cogent",
+            "correct": true
+          },
+          {
+            "label": "circumspect"
+          },
+          {
+            "label": "egregious"
+          },
+          {
+            "label": "efficacious"
+          }
+        ],
+        "explanation": "cogent (adjective): Forcefully persuasive; relevant, pertinent.\n\nOriginal form in sentence: cogent",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "cloze",
+          "high-freq"
+        ],
+        "source": "Wiktionary example sentences (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/cogent",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "fa9f0071-4603-554a-eafd-eedef2174592",
+        "type": "cloze",
+        "title": "GRE Vocabulary (cloze)",
+        "description": "Which word, in the appropriate form, completes the sentence?\n\n\"It took sixty firefighters to put out the ____.\"",
+        "options": [
+          {
+            "label": "brook"
+          },
+          {
+            "label": "circumspect"
+          },
+          {
+            "label": "belie"
+          },
+          {
+            "label": "conflagration",
+            "correct": true
+          }
+        ],
+        "explanation": "conflagration (noun): A large fire extending to many objects, or over a large space; a general burning.\n\nOriginal form in sentence: conflagration",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "cloze",
+          "high-freq"
+        ],
+        "source": "Wiktionary example sentences (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/conflagration",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "f7e4a9f4-d1dc-5912-2505-8464f5b64869",
+        "type": "cloze",
+        "title": "GRE Vocabulary (cloze)",
+        "description": "Which word, in the appropriate form, completes the sentence?\n\n\"You have no right to ____ people and things that you have no personal experience with.\"",
+        "options": [
+          {
+            "label": "brook"
+          },
+          {
+            "label": "belie"
+          },
+          {
+            "label": "denigrate",
+            "correct": true
+          },
+          {
+            "label": "enervate"
+          }
+        ],
+        "explanation": "denigrate (verb): To treat as worthless; belittle, degrade or disparage.\n\nOriginal form in sentence: denigrate",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "cloze",
+          "high-freq"
+        ],
+        "source": "Wiktionary example sentences (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/denigrate",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "2e824002-135b-5b36-4674-8ac7aea4a9a8",
+        "type": "cloze",
+        "title": "GRE Vocabulary (cloze)",
+        "description": "Which word, in the appropriate form, completes the sentence?\n\n\"This medicine is ____.\"",
+        "options": [
+          {
+            "label": "efficacious",
+            "correct": true
+          },
+          {
+            "label": "cogent"
+          },
+          {
+            "label": "egregious"
+          },
+          {
+            "label": "circumspect"
+          }
+        ],
+        "explanation": "efficacious (adjective): Effective; possessing efficacy.\n\nOriginal form in sentence: efficacious",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "cloze",
+          "high-freq"
+        ],
+        "source": "Wiktionary example sentences (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/efficacious",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "d10f1cd5-52dd-5842-b26b-71b042354f3f",
+        "type": "cloze",
+        "title": "GRE Vocabulary (cloze)",
+        "description": "Which word, in the appropriate form, completes the sentence?\n\n\"The student has made ____ errors on the examination.\"",
+        "options": [
+          {
+            "label": "efficacious"
+          },
+          {
+            "label": "egregious",
+            "correct": true
+          },
+          {
+            "label": "capricious"
+          },
+          {
+            "label": "cogent"
+          }
+        ],
+        "explanation": "egregious (adjective): Usually in a negative sense: conspicuous, exceptional, outstanding.\n\nOriginal form in sentence: egregious",
+        "difficulty": "medium",
+        "tags": [
+          "gre",
+          "vocab",
+          "cloze",
+          "high-freq"
+        ],
+        "source": "Wiktionary example sentences (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/egregious",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "fbfad360-f48a-5b2f-9f14-1d598942c7b5",
+        "type": "cloze",
+        "title": "GRE Vocabulary (cloze)",
+        "description": "Which word, in the appropriate form, completes the sentence?\n\n\"After being laid off three times in a row, she felt too ____ to look for another job.\"",
+        "options": [
+          {
+            "label": "burgeon"
+          },
+          {
+            "label": "denigrate"
+          },
+          {
+            "label": "enervate",
+            "correct": true
+          },
+          {
+            "label": "abscond"
+          }
+        ],
+        "explanation": "enervate (verb): To reduce strength or energy; debilitate.\n\nOriginal form in sentence: enervated",
+        "difficulty": "hard",
+        "tags": [
+          "gre",
+          "vocab",
+          "cloze",
+          "high-freq"
+        ],
+        "source": "Wiktionary example sentences (via dictionaryapi.dev) — word selection from public GRE frequency lists",
+        "sourceUrl": "https://en.wiktionary.org/wiki/enervate",
+        "license": "CC-BY-SA-3.0"
+      }
+    ]
+  },
+  "contentHash": "sha256-ed346564b9096f6f253ef7b0585d202fb60d9d8ce88cfd8ca4c76c2400daeb72"
+}

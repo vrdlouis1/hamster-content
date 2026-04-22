@@ -1,0 +1,52 @@
+[
+  {
+    "word": "cacophony",
+    "phonetics": [
+      {
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cacophony-au.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729214",
+        "license": {
+          "name": "BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      },
+      {
+        "text": "/kəˈkɒfəni/",
+        "audio": ""
+      },
+      {
+        "text": "/kəˈkɑfəni/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cacophony-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=782502",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A mix of discordant sounds; dissonance.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": [
+          "euphony",
+          "harmony"
+        ]
+      }
+    ],
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "sourceUrls": [
+      "https://en.wiktionary.org/wiki/cacophony"
+    ]
+  }
+]

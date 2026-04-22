@@ -1,0 +1,48 @@
+[
+  {
+    "word": "chicanery",
+    "phonetic": "/ʃɪˈkeɪn(ə)ɹi/",
+    "phonetics": [
+      {
+        "text": "/ʃɪˈkeɪn(ə)ɹi/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chicanery-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=4149818",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Deception by use of trickery, quibbling, or subterfuge.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "A slick performance by a lawyer.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "dishonesty",
+          "fraud",
+          "subterfuge",
+          "trickery"
+        ],
+        "antonyms": []
+      }
+    ],
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "sourceUrls": [
+      "https://en.wiktionary.org/wiki/chicanery"
+    ]
+  }
+]

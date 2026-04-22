@@ -1,0 +1,84 @@
+[
+  {
+    "word": "burgeon",
+    "phonetic": "/ˈbɜː.d͡ʒən/",
+    "phonetics": [
+      {
+        "text": "/ˈbɜː.d͡ʒən/",
+        "audio": ""
+      },
+      {
+        "text": "/ˈbɝː.d͡ʒən/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/burgeon-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=385417",
+        "license": {
+          "name": "BY 2.5",
+          "url": "https://creativecommons.org/licenses/by/2.5"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A bud, sprout, shoot.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To grow or expand.",
+            "synonyms": [
+              "blossom",
+              "expand",
+              "grow",
+              "sprout"
+            ],
+            "antonyms": [],
+            "example": "Gradually, the town burgeoned into a thriving city."
+          },
+          {
+            "definition": "To swell to the point of bursting.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Of plants, to bloom, bud.",
+            "synonyms": [
+              "blossom",
+              "bud",
+              "green",
+              "sprout"
+            ],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "blossom",
+          "bud",
+          "green",
+          "sprout",
+          "blossom",
+          "expand",
+          "grow",
+          "sprout"
+        ],
+        "antonyms": []
+      }
+    ],
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "sourceUrls": [
+      "https://en.wiktionary.org/wiki/burgeon"
+    ]
+  }
+]

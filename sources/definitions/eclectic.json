@@ -1,0 +1,72 @@
+[
+  {
+    "word": "eclectic",
+    "phonetic": "/ɛkˈlɛk.tɪk/",
+    "phonetics": [
+      {
+        "text": "/ɛkˈlɛk.tɪk/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eclectic-au.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75730453",
+        "license": {
+          "name": "BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      },
+      {
+        "text": "/ɛkˈlɛk.tɪk/",
+        "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eclectic-us.mp3",
+        "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=11527311",
+        "license": {
+          "name": "BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Someone who selects according to the eclectic method.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Selecting a mixture of what appears to be best of various doctrines, methods or styles.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Unrelated and unspecialized; heterogeneous.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "heterogeneous"
+        ],
+        "antonyms": [
+          "exclusive",
+          "homogeneous",
+          "orthodox",
+          "standard",
+          "uniform"
+        ]
+      }
+    ],
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "sourceUrls": [
+      "https://en.wiktionary.org/wiki/eclectic"
+    ]
+  }
+]

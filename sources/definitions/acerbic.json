@@ -1,0 +1,49 @@
+[
+  {
+    "word": "acerbic",
+    "phonetic": "/əˈsɜː(ɹ)bɪk/",
+    "phonetics": [
+      {
+        "text": "/əˈsɜː(ɹ)bɪk/",
+        "audio": ""
+      },
+      {
+        "text": "/əˈsɜ(ɹ)bɪk/",
+        "audio": ""
+      }
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Tasting sour or bitter.",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "Sharp, harsh, biting.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ],
+        "synonyms": [
+          "acrid",
+          "acrimonious",
+          "scathing",
+          "acerb",
+          "acrid",
+          "acrimonious"
+        ],
+        "antonyms": []
+      }
+    ],
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "sourceUrls": [
+      "https://en.wiktionary.org/wiki/acerbic"
+    ]
+  }
+]
