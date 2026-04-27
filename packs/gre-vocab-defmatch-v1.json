@@ -494,13 +494,13 @@
         "id": "6bf55d6f-f468-5132-6809-4019e65a2c8f",
         "type": "mcq",
         "title": "GRE Vocabulary",
-        "description": "Which word means: \"To lie around; encompass.\"?",
+        "description": "Which word means: \"To give a false impression of; to contradict or misrepresent.\"?",
         "options": [
           {
-            "label": "demagogue"
+            "label": "corroborate"
           },
           {
-            "label": "arcane"
+            "label": "assuage"
           },
           {
             "label": "belie",
@@ -510,7 +510,7 @@
             "label": "cogent"
           }
         ],
-        "explanation": "belie (verb): To lie around; encompass.",
+        "explanation": "belie (verb): To give a false impression of; to contradict the appearance of. A calm surface can belie a turbulent interior. Do not confuse with 'lie around' — that is an archaic sense not tested on the GRE. Corroborate (to confirm) is a useful contrast: corroborate means to back up a claim; belie means to undercut one.",
         "difficulty": "medium",
         "tags": [
           "gre",
@@ -558,10 +558,10 @@
         "id": "c9c70942-7f23-504f-a073-222de731bdd9",
         "type": "mcq",
         "title": "GRE Vocabulary",
-        "description": "Which word means: \"To use; enjoy; have the full employment of.\"?",
+        "description": "Which word means: \"To tolerate or endure (typically used in the negative: 'would brook no interruption').\"?",
         "options": [
           {
-            "label": "contrition"
+            "label": "assuage"
           },
           {
             "label": "brook",
@@ -571,10 +571,10 @@
             "label": "castigate"
           },
           {
-            "label": "copious"
+            "label": "condone"
           }
         ],
-        "explanation": "brook (verb): To use; enjoy; have the full employment of.",
+        "explanation": "brook (verb): To tolerate or endure — almost always used in the negative. 'She would brook no delay' means she refused to accept any delay at all. Assuage (to relieve) and condone (to overlook) are plausible traps: assuage softens something; condone accepts it passively; brook specifically means to put up with, and the negative construction is what the GRE tests.",
         "difficulty": "medium",
         "tags": [
           "gre",
@@ -1612,5 +1612,5 @@
       }
     ]
   },
-  "contentHash": "sha256-6fa2d6d8e54629656645c3d6d0d2be5db10a93a63888f7cc837880464acdade1"
+  "contentHash": "sha256-c5e0da1791a5a357e5ede6a70a984d9ebc141339f98f4b0253eebf29a4603947"
 }

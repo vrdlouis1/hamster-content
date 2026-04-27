@@ -30,6 +30,7 @@
             "label": "D. Airspace overcrowding is more of an issue than airport overcrowding."
           }
         ],
+        "explanation": "B is directly supported: the passage states air traffic control systems are \"overloaded\" and airspace is \"more and more crowded.\" A is wrong because the passage says airports are near capacity, not that they grew spectacularly. C overstates the claim — the passage says saturated airports \"limit\" access, not block it entirely.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -60,6 +61,7 @@
             "label": "D. Modern media technology is no substitute for formal training in rhetoric."
           }
         ],
+        "explanation": "C paraphrases Aristotle's definition directly: logos = what is said (content), lexis = how it is said (delivery). B is the opposite of what the passage says — the passage explicitly states rhetorical theory has not evolved since antiquity. D contradicts the passage, which says technology can support even unpolished presenters.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -90,6 +92,7 @@
             "correct": true
           }
         ],
+        "explanation": "D is logically airtight: the passage defines the Schipperke as tailless, so any dog with a tail is excluded by definition. A is a common trap — the passage says the Schipperke has a fox-like head, not that it is related to foxes. C makes a claim about the Belgian Sheepdog's size that the passage does not support.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -120,6 +123,7 @@
             "correct": true
           }
         ],
+        "explanation": "D is directly stated: Internet call companies pay telephone companies to link their traffic with the traditional network. B is a tempting distractor — the passage says experts believe the case \"could\" prove a setback, not that the companies themselves fear it. A contradicts the opening sentence, which says fears were already present before this case.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -150,6 +154,7 @@
             "correct": true
           }
         ],
+        "explanation": "D is supported by the passage's phrase \"many different religions and for many millennia\" — a clear statement of long history. B is a carefully constructed trap: the equinox falls on March 20-22, but Easter (which is tied to a lunar calendar) can fall anywhere from late March to late April. C cannot be inferred; the passage only discusses northern climates specifically.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -180,6 +185,7 @@
             "label": "D. Native species are driven to extinction because they require different resources from invasive ones."
           }
         ],
+        "explanation": "A follows from the word \"unprecedented\" — meaning the level of damage has never been higher. B overreaches: the passage says natural predators are \"generally not present,\" not entirely absent. C distorts the timeline — the passage says the problem has grown in the last fifty years, not that it began then. D misreads causation: native species lose out competing for the same resources, not different ones.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -210,6 +216,7 @@
             "label": "D. The batter used to make cake must be made with whole milk, eggs and vanilla extract."
           }
         ],
+        "explanation": "A is correct by counting: the passage lists exactly three factors determining how much a cake rises — mixing quality, ingredient quantities, and oven temperature. B is unsupported; the passage says baking powder is necessary but never says more of it means more rise. C is wrong: extra butter is only needed when using skimmed milk, not in the normal recipe. D ignores the skimmed milk substitution explicitly allowed.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -240,6 +247,7 @@
             "correct": true
           }
         ],
+        "explanation": "D is correct because the passage lists multiple barriers: they rarely meet, rarely mate even when they do, have different mating seasons, and offspring have limited survival chances. A overstates one factor as the main reason. C reverses the direction in the passage — it is the grizzly that strays into polar bear territory, not the other way around.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -270,6 +278,7 @@
             "label": "D. The crop damage in Western Europe was due to falling ash."
           }
         ],
+        "explanation": "B is confirmed by the numbers: over 90,000 of the estimated 100,000 died in the weeks after the eruption, making that clearly the majority. A contradicts the passage's description of this as \"the largest ever recorded.\" C is clearly false — effects reached France and Germany. D is an inference not supported by the text; the passage attributes the crop damage to a global temperature drop, not to ash fall.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -300,6 +309,7 @@
             "correct": true
           }
         ],
+        "explanation": "D is a direct restatement of the passage's key qualifier: \"could be 35% more fuel-efficient... but this does not necessarily mean that it will be built.\" A is wrong because the aircraft has not been built — it is only a design proposal. C is too specific: the passage lists multiple design features, not just the lack of a tail, as responsible for efficiency.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -332,6 +342,7 @@
             "label": "Politicians are finally addressing the problems of both top and low pay"
           }
         ],
+        "explanation": "The correct option captures both key claims in the article: politicians’ interest in top pay is recent (\"finally\"), and the article’s actual prescription is about middle and lower wages, not those at the top. Option C is the main trap — it says politicians have addressed top pay \"for a long time,\" directly contradicting paragraph 2’s statement that they did little for three decades.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -362,6 +373,7 @@
             "label": "They did very little except condemn the increases"
           }
         ],
+        "explanation": "Paragraph 2 says nation's leaders \"did little but sigh that whatever will be will be\" — a phrase meaning passive acceptance, not even condemnation. Option D is the key distractor: \"condemning\" implies active disapproval; the passage says they merely sighed, which is weaker than condemnation and confirms no effective action was taken.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -392,6 +404,7 @@
             "label": "The next thought"
           }
         ],
+        "explanation": "The sentence reads: \"The answer is not to be found at either financial extreme, but bang in the economic centre. There is absolutely no doubt that this is what dictates whether elections are won or lost.\" The word \"this\" refers back to the nearest noun phrase, \"the economic centre.\" Pronoun referent questions require you to trace what the pronoun substitutes for in the immediately preceding clause.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -422,6 +435,7 @@
             "correct": true
           }
         ],
+        "explanation": "Paragraph 5 says \"But it is not the case any more\" — referring back to the concealment described in paragraph 4: with easy credit, inadequate pay \"could be concealed with debt,\" meaning the squeeze was hidden. \"It\" refers to that concealment or non-obviousness. Options B and C describe contributing causes of the concealment, not the concealment itself.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -452,6 +466,7 @@
             "label": "Their real incomes are fluctuating and they are buying fewer homes"
           }
         ],
+        "explanation": "Paragraphs 5 and 6 supply both parts of the correct answer: real wages have dipped 4% (lower incomes) and pending cuts to tax credits will \"compound the misery\" — tax credits being cut means less tax relief, effectively a rising tax burden. Option B is the key trap: it says they \"will benefit from tax cuts,\" which directly contradicts the passage.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -482,6 +497,7 @@
             "label": "Been exposed as doubtful"
           }
         ],
+        "explanation": "\"Bitten the dust\" is an idiom meaning to come to an end or be completely finished. The passage says the belief in ever-rising home ownership has \"bitten the dust\" because more people in their 30s are now renting rather than buying. Option A (\"had to face reality\") is close but describes the person, not the belief; the idiom applies to the end of the belief itself, not a person confronting facts.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -512,6 +528,7 @@
             "correct": true
           }
         ],
+        "explanation": "\"Bevy\" means a large group or collection of people. The sentence context (\"a bevy of politicians launched this report\") indicates the group was notable for its size and cross-party composition. Option B (\"a select group\") is tempting because politicians can seem exclusive, but \"bevy\" specifically emphasizes quantity, not exclusivity.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -542,6 +559,7 @@
             "label": "They are believable"
           }
         ],
+        "explanation": "Paragraph 8 says these phrases \"serve as a well-constructed smokescreen to mask not having substantive comments to share\" — a smokescreen is by definition something that conceals or misleads, making the phrases deceptive. Option B (\"powerful\") is the opposite implication of the passage: a smokescreen may sound powerful but the author's point is that it lacks substance.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -572,6 +590,7 @@
             "label": "A confusing problem"
           }
         ],
+        "explanation": "\"Thorny\" is an idiom meaning complicated or difficult to deal with — like a thorn that is hard to remove without causing pain. In context, the phrase is used parenthetically to acknowledge that even boosting the lowest wages is hard, before pointing out that the broader challenge is even harder. Option A (costly) and C (risky) introduce ideas not present in the idiom's meaning.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -602,6 +621,7 @@
             "label": "They could succeed, but lack belief"
           }
         ],
+        "explanation": "Paragraph 10 says the speeches are \"asking the right questions\" (promising) but the proposed moves are described as \"populist\" and the employment talk as \"dreamy\" — meaning the aims are acknowledged as directionally correct but the specific proposals fall short. Option B (\"too vague\") conflates vagueness with insufficiency; the author's criticism is about the wrong focus, not about vagueness.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -632,6 +652,7 @@
             "label": "Taxing"
           }
         ],
+        "explanation": "\"Capping\" in financial and policy contexts means placing a maximum limit on something — here, a ceiling on executive bonuses. The context (government proposals to prevent bonuses from exceeding a certain level) confirms the limiting sense. Option D (taxing) is a related policy tool but not what \"capping\" means: a cap stops something from going above a limit, whereas a tax allows it but charges a cost.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -662,6 +683,7 @@
             "correct": true
           }
         ],
+        "explanation": "Paragraph 12 calls on politicians of all parties to \"develop real and feasible answers\" — real and feasible both point to concrete action rather than discussion. Option B (\"less confused solutions\") is close but misses the emphasis: the author's main complaint is inaction, not confusion. Option C (\"be more honest\") is used sarcastically in the passage — it introduces the observation that politicians don't know the answers, not a genuine recommendation.",
         "difficulty": "medium",
         "tags": [
           "epso",
@@ -674,5 +696,5 @@
       }
     ]
   },
-  "contentHash": "sha256-4aab55731098eb6899407e711bbed2537e52603755ba9b628075a6e8da712e59"
+  "contentHash": "sha256-337613e6e583d802e8f3a425d6bcacea22f63138c25a3cccaa35b97b8d7e9aec"
 }
