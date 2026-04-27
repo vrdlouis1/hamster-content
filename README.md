@@ -52,6 +52,24 @@ node scripts/build-epso-samples.mjs
 
 Re-running with unchanged inputs produces byte-identical output. IDs are SHA-256-seeded from (pack_id, set_key, content_id), so content updates only change IDs for questions whose H5P cid changed — existing user SM-2 state on unchanged questions survives.
 
+## Packs shipped
+
+| Pack ID | Questions | License | Tier |
+|---|---|---|---|
+| `gre-vocab-defmatch` | 50 | CC-BY-SA-3.0 | Free |
+| `gre-vocab-cloze` | 13 | CC-BY-SA-3.0 | Free |
+| `epso-samples` | 22 | CC-BY-4.0 | Free |
+| `epso-verbal-v2` | 1 | CC-BY-4.0 | Free |
+| `epso-numerical-v2` | 1 | CC-BY-4.0 | Free |
+| `word-origins` | 30 | CC-BY-SA-3.0 | Free |
+| `eu-geography` | 25 | CC-BY-SA-3.0 | Free |
+
+Total: **142 questions across 7 packs** (v1.0.0 launch state).
+
+`word-origins` — Etymology MCQs tracing common English words to Greek, Latin, Old English, Arabic, and other roots. Broad-appeal free-tier content. Source: Wiktionary etymology sections.
+
+`eu-geography` — EU member state facts (capitals, accession years, population, institutions). Complements EPSO prep; also usable as standalone general-knowledge. Source: Wikipedia CC BY-SA 3.0.
+
 ## Sources + licensing (honest)
 
 ### What we use

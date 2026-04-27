@@ -1,0 +1,788 @@
+{
+  "packId": "eu-geography",
+  "version": "1.0.0",
+  "name": "EU Member States — Geography and Facts",
+  "description": "25 MCQs covering EU member states: capitals, accession dates, populations, and geography. Supports EPSO Verbal/Numerical context knowledge. Facts paraphrased from Wikipedia (CC BY-SA 3.0).",
+  "contributor": "Hambit content team",
+  "source": "Wikipedia — EU member state articles (CC BY-SA 3.0)",
+  "license": "CC-BY-SA-3.0",
+  "updatedAt": "2026-04-27",
+  "questionCount": 25,
+  "sets": {
+    "eu-geography": [
+      {
+        "id": "eug-001",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "Which country was among the six founding members of what became the European Union, signing the Treaty of Rome in 1957?",
+        "options": [
+          {
+            "label": "Spain"
+          },
+          {
+            "label": "Denmark"
+          },
+          {
+            "label": "Belgium",
+            "correct": true
+          },
+          {
+            "label": "Austria"
+          }
+        ],
+        "explanation": "Belgium was one of the six founding signatories of the 1957 Treaty of Rome, alongside France, West Germany, Italy, Luxembourg, and the Netherlands. Spain, Denmark, and Austria all joined later — Denmark in 1973, Spain in 1986, Austria in 1995.",
+        "difficulty": "medium",
+        "tags": [
+          "eu",
+          "history",
+          "epso"
+        ],
+        "source": "Wikipedia — Treaty of Rome",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Rome",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-002",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "What is the capital of Austria?",
+        "options": [
+          {
+            "label": "Salzburg"
+          },
+          {
+            "label": "Graz"
+          },
+          {
+            "label": "Innsbruck"
+          },
+          {
+            "label": "Vienna",
+            "correct": true
+          }
+        ],
+        "explanation": "Vienna (German: Wien) is the capital and largest city of Austria. It has been a major European political and cultural center since the Habsburg era and is home to several UN and international organization headquarters.",
+        "difficulty": "easy",
+        "tags": [
+          "eu",
+          "capitals",
+          "geography"
+        ],
+        "source": "Wikipedia — Vienna",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Vienna",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-003",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "In which year did Poland join the European Union?",
+        "options": [
+          {
+            "label": "1995"
+          },
+          {
+            "label": "2004",
+            "correct": true
+          },
+          {
+            "label": "2007"
+          },
+          {
+            "label": "2013"
+          }
+        ],
+        "explanation": "Poland joined the EU on 1 May 2004 as part of the largest single enlargement in the bloc's history, when ten countries acceded simultaneously — eight from Central and Eastern Europe plus Malta and Cyprus. Poland is now the EU's largest post-communist member by population and GDP.",
+        "difficulty": "medium",
+        "tags": [
+          "eu",
+          "history",
+          "enlargement",
+          "epso"
+        ],
+        "source": "Wikipedia — Enlargement of the European Union",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Enlargement_of_the_European_Union",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-004",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "Which EU member state has the longest coastline?",
+        "options": [
+          {
+            "label": "France"
+          },
+          {
+            "label": "Italy"
+          },
+          {
+            "label": "Sweden"
+          },
+          {
+            "label": "Greece",
+            "correct": true
+          }
+        ],
+        "explanation": "Greece has the longest coastline of any EU member state, owing to its mainland peninsula and approximately 6,000 islands and islets. Its coastline extends over 13,000 km, roughly three times longer than the second-placed contenders.",
+        "difficulty": "medium",
+        "tags": [
+          "eu",
+          "geography"
+        ],
+        "source": "Wikipedia — Greece",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Greece",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-005",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "Which EU member state joined most recently, in 2013?",
+        "options": [
+          {
+            "label": "Bulgaria"
+          },
+          {
+            "label": "Romania"
+          },
+          {
+            "label": "Croatia",
+            "correct": true
+          },
+          {
+            "label": "Montenegro"
+          }
+        ],
+        "explanation": "Croatia became the 28th EU member state on 1 July 2013, making it the most recent country to join the EU. Bulgaria and Romania joined in 2007. Montenegro is a candidate country but has not yet acceded.",
+        "difficulty": "medium",
+        "tags": [
+          "eu",
+          "history",
+          "enlargement",
+          "epso"
+        ],
+        "source": "Wikipedia — Croatia and the European Union",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Croatia_and_the_European_Union",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-006",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "What is the capital of Finland?",
+        "options": [
+          {
+            "label": "Tampere"
+          },
+          {
+            "label": "Turku"
+          },
+          {
+            "label": "Espoo"
+          },
+          {
+            "label": "Helsinki",
+            "correct": true
+          }
+        ],
+        "explanation": "Helsinki is the capital and largest city of Finland, located on the southern coast of the country on the Gulf of Finland. Finland joined the EU in 1995 alongside Austria and Sweden.",
+        "difficulty": "easy",
+        "tags": [
+          "eu",
+          "capitals",
+          "geography"
+        ],
+        "source": "Wikipedia — Helsinki",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Helsinki",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-007",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "Which is the smallest EU member state by area?",
+        "options": [
+          {
+            "label": "Malta",
+            "correct": true
+          },
+          {
+            "label": "Luxembourg"
+          },
+          {
+            "label": "Cyprus"
+          },
+          {
+            "label": "Slovenia"
+          }
+        ],
+        "explanation": "Malta is the smallest EU member state by both area (316 km2) and population. It joined the EU in 2004. Luxembourg, though tiny, is over 800 times larger than Malta by area.",
+        "difficulty": "easy",
+        "tags": [
+          "eu",
+          "geography",
+          "epso"
+        ],
+        "source": "Wikipedia — Malta",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Malta",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-008",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "Which EU member state shares a land border with the most other EU member states?",
+        "options": [
+          {
+            "label": "France"
+          },
+          {
+            "label": "Poland"
+          },
+          {
+            "label": "Germany",
+            "correct": true
+          },
+          {
+            "label": "Austria"
+          }
+        ],
+        "explanation": "Germany shares land borders with nine EU member states: Denmark, the Netherlands, Belgium, Luxembourg, France, Switzerland (not EU), Austria, Czech Republic, and Poland. No other EU member has as many bordering EU neighbors.",
+        "difficulty": "hard",
+        "tags": [
+          "eu",
+          "geography"
+        ],
+        "source": "Wikipedia — Germany",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Germany",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-009",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "What is the capital of Romania?",
+        "options": [
+          {
+            "label": "Cluj-Napoca"
+          },
+          {
+            "label": "Timisoara"
+          },
+          {
+            "label": "Iasi"
+          },
+          {
+            "label": "Bucharest",
+            "correct": true
+          }
+        ],
+        "explanation": "Bucharest (Romanian: Bucuresti) is the capital and largest city of Romania. Romania joined the EU on 1 January 2007, alongside Bulgaria, in the fifth EU enlargement round.",
+        "difficulty": "easy",
+        "tags": [
+          "eu",
+          "capitals",
+          "geography"
+        ],
+        "source": "Wikipedia — Bucharest",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bucharest",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-010",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "Which EU member state has the largest population?",
+        "options": [
+          {
+            "label": "France"
+          },
+          {
+            "label": "Italy"
+          },
+          {
+            "label": "Spain"
+          },
+          {
+            "label": "Germany",
+            "correct": true
+          }
+        ],
+        "explanation": "Germany is the most populous EU member state with around 84 million inhabitants. France is second with approximately 68 million, followed by Italy and Spain. Germany's large population gives it the most seats in the European Parliament.",
+        "difficulty": "easy",
+        "tags": [
+          "eu",
+          "population",
+          "epso"
+        ],
+        "source": "Wikipedia — Demographics of the European Union",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Demographics_of_the_European_Union",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-011",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "Which EU country is entirely surrounded by Italian territory?",
+        "options": [
+          {
+            "label": "Liechtenstein"
+          },
+          {
+            "label": "San Marino",
+            "correct": true
+          },
+          {
+            "label": "Vatican City"
+          },
+          {
+            "label": "Andorra"
+          }
+        ],
+        "explanation": "San Marino is surrounded entirely by Italian territory, making it an enclave within Italy. It is one of the world's smallest republics. Vatican City is also an enclave within Italy but is not an EU member state.",
+        "difficulty": "medium",
+        "tags": [
+          "eu",
+          "geography"
+        ],
+        "source": "Wikipedia — San Marino",
+        "sourceUrl": "https://en.wikipedia.org/wiki/San_Marino",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-012",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "What is the capital of Slovakia?",
+        "options": [
+          {
+            "label": "Kosice"
+          },
+          {
+            "label": "Prague"
+          },
+          {
+            "label": "Brno"
+          },
+          {
+            "label": "Bratislava",
+            "correct": true
+          }
+        ],
+        "explanation": "Bratislava is the capital and largest city of Slovakia. It sits on the Danube river near the borders of Austria and Hungary, making it one of the few European capitals adjacent to two neighboring countries. Slovakia joined the EU in 2004.",
+        "difficulty": "easy",
+        "tags": [
+          "eu",
+          "capitals",
+          "geography"
+        ],
+        "source": "Wikipedia — Bratislava",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bratislava",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-013",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "How many countries were in the original 1952 founding of the European Coal and Steel Community (ECSC), the direct predecessor to the EU?",
+        "options": [
+          {
+            "label": "4"
+          },
+          {
+            "label": "6",
+            "correct": true
+          },
+          {
+            "label": "9"
+          },
+          {
+            "label": "12"
+          }
+        ],
+        "explanation": "The ECSC was founded by six countries in 1952: France, West Germany, Italy, Belgium, the Netherlands, and Luxembourg. These same six later signed the Treaty of Rome in 1957, creating the European Economic Community — the forerunner of today's EU.",
+        "difficulty": "medium",
+        "tags": [
+          "eu",
+          "history",
+          "epso"
+        ],
+        "source": "Wikipedia — European Coal and Steel Community",
+        "sourceUrl": "https://en.wikipedia.org/wiki/European_Coal_and_Steel_Community",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-014",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "Which EU member state is an island nation in the eastern Mediterranean Sea?",
+        "options": [
+          {
+            "label": "Malta"
+          },
+          {
+            "label": "Cyprus",
+            "correct": true
+          },
+          {
+            "label": "Greece"
+          },
+          {
+            "label": "Both Malta and Cyprus"
+          }
+        ],
+        "explanation": "Cyprus is an island country in the eastern Mediterranean, located south of Turkey. It joined the EU in 2004. Malta is also an island but sits in the central Mediterranean between Sicily and the North African coast — both are island EU members, but Cyprus is specifically in the eastern Mediterranean.",
+        "difficulty": "medium",
+        "tags": [
+          "eu",
+          "geography"
+        ],
+        "source": "Wikipedia — Cyprus",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cyprus",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-015",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "What is the capital of Estonia?",
+        "options": [
+          {
+            "label": "Riga"
+          },
+          {
+            "label": "Vilnius"
+          },
+          {
+            "label": "Tartu"
+          },
+          {
+            "label": "Tallinn",
+            "correct": true
+          }
+        ],
+        "explanation": "Tallinn is the capital of Estonia, located on the Gulf of Finland. Its medieval old town is a UNESCO World Heritage Site. Estonia joined the EU in 2004 and was the first post-Soviet republic to adopt the euro, in 2011. Riga is the capital of Latvia; Vilnius is the capital of Lithuania.",
+        "difficulty": "easy",
+        "tags": [
+          "eu",
+          "capitals",
+          "geography"
+        ],
+        "source": "Wikipedia — Tallinn",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tallinn",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-016",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "How many of the 27 EU member states currently use the euro as their official currency?",
+        "options": [
+          {
+            "label": "17"
+          },
+          {
+            "label": "19"
+          },
+          {
+            "label": "20",
+            "correct": true
+          },
+          {
+            "label": "22"
+          }
+        ],
+        "explanation": "As of 2024, 20 of the 27 EU member states use the euro. The eurozone grew to 20 with Croatia's adoption of the euro in January 2023. The seven non-euro EU members include Denmark, Sweden, Hungary, Poland, Czech Republic, Romania, and Bulgaria.",
+        "difficulty": "hard",
+        "tags": [
+          "eu",
+          "economics",
+          "epso"
+        ],
+        "source": "Wikipedia — Eurozone",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eurozone",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-017",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "What is the capital of Luxembourg?",
+        "options": [
+          {
+            "label": "Esch-sur-Alzette"
+          },
+          {
+            "label": "Diekirch"
+          },
+          {
+            "label": "Differdange"
+          },
+          {
+            "label": "Luxembourg City",
+            "correct": true
+          }
+        ],
+        "explanation": "Luxembourg City is the capital of the Grand Duchy of Luxembourg and shares its name with the country. It is also one of the official seats of the EU, hosting the Court of Justice of the European Union and the European Court of Auditors.",
+        "difficulty": "easy",
+        "tags": [
+          "eu",
+          "capitals",
+          "geography",
+          "epso"
+        ],
+        "source": "Wikipedia — Luxembourg City",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Luxembourg_City",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-018",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "Which EU member state has the highest GDP per capita in the bloc?",
+        "options": [
+          {
+            "label": "Denmark"
+          },
+          {
+            "label": "Netherlands"
+          },
+          {
+            "label": "Luxembourg",
+            "correct": true
+          },
+          {
+            "label": "Ireland"
+          }
+        ],
+        "explanation": "Luxembourg consistently records the highest GDP per capita in the EU, boosted by its large financial sector and the high proportion of cross-border workers who contribute to output but are not counted in the resident population. Ireland ranks second using standard GDP measures but distortions from multinational profits affect its figures.",
+        "difficulty": "hard",
+        "tags": [
+          "eu",
+          "economics",
+          "epso"
+        ],
+        "source": "Wikipedia — List of EU countries by GDP",
+        "sourceUrl": "https://en.wikipedia.org/wiki/List_of_European_Union_member_states_by_GDP_per_capita",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-019",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "Which European capital city is located at the highest elevation above sea level?",
+        "options": [
+          {
+            "label": "Ljubljana"
+          },
+          {
+            "label": "Vienna"
+          },
+          {
+            "label": "Bern"
+          },
+          {
+            "label": "Madrid",
+            "correct": true
+          }
+        ],
+        "explanation": "Madrid is the highest-altitude capital city in the EU, sitting at approximately 667 meters above sea level on the Meseta Central plateau. While Bern (Switzerland, not an EU member) sits at around 542 meters, it is not in the EU. Madrid's elevation gives it a continental climate with hot summers and cold winters.",
+        "difficulty": "hard",
+        "tags": [
+          "eu",
+          "geography"
+        ],
+        "source": "Wikipedia — Madrid",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Madrid",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-020",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "The Baltic states — Estonia, Latvia, and Lithuania — joined the EU in which year?",
+        "options": [
+          {
+            "label": "1995"
+          },
+          {
+            "label": "2004",
+            "correct": true
+          },
+          {
+            "label": "2007"
+          },
+          {
+            "label": "2013"
+          }
+        ],
+        "explanation": "Estonia, Latvia, and Lithuania all joined the EU on 1 May 2004, as part of the fifth and largest enlargement round. They had been independent Soviet republics until 1991 and completed the accession process in just over a decade.",
+        "difficulty": "easy",
+        "tags": [
+          "eu",
+          "history",
+          "enlargement",
+          "epso"
+        ],
+        "source": "Wikipedia — Baltic states",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Baltic_states",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-021",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "What is the official name of the European Parliament's principal seat?",
+        "options": [
+          {
+            "label": "Brussels"
+          },
+          {
+            "label": "Luxembourg City"
+          },
+          {
+            "label": "Strasbourg",
+            "correct": true
+          },
+          {
+            "label": "Frankfurt"
+          }
+        ],
+        "explanation": "The European Parliament's official seat is in Strasbourg, France, where plenary sessions take place. The Parliament also has offices in Brussels (where committees meet and most MEPs work daily) and in Luxembourg. The seat arrangement is fixed by EU treaty.",
+        "difficulty": "medium",
+        "tags": [
+          "eu",
+          "institutions",
+          "epso"
+        ],
+        "source": "Wikipedia — European Parliament",
+        "sourceUrl": "https://en.wikipedia.org/wiki/European_Parliament",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-022",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "Which EU member state has the longest land border with a non-EU country?",
+        "options": [
+          {
+            "label": "Romania"
+          },
+          {
+            "label": "Finland",
+            "correct": true
+          },
+          {
+            "label": "Greece"
+          },
+          {
+            "label": "Bulgaria"
+          }
+        ],
+        "explanation": "Finland shares approximately 1,340 km of land border with Russia, the longest EU-Russia land border. Following Russia's invasion of Ukraine in 2022, this border gained significant strategic attention and contributed to Finland's rapid NATO accession in 2023.",
+        "difficulty": "hard",
+        "tags": [
+          "eu",
+          "geography"
+        ],
+        "source": "Wikipedia — Finland-Russia border",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Finland%E2%80%93Russia_border",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-023",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "How many member states does the EU have as of 2024?",
+        "options": [
+          {
+            "label": "25"
+          },
+          {
+            "label": "27",
+            "correct": true
+          },
+          {
+            "label": "28"
+          },
+          {
+            "label": "30"
+          }
+        ],
+        "explanation": "The EU has 27 member states as of 2024. It had 28 until the United Kingdom left on 31 January 2020 (Brexit), reducing the count to 27. Croatia's accession in 2013 had brought the total to 28.",
+        "difficulty": "easy",
+        "tags": [
+          "eu",
+          "institutions",
+          "epso"
+        ],
+        "source": "Wikipedia — Member state of the European Union",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-024",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "Which EU member state is located on the Iberian Peninsula but is NOT Spain?",
+        "options": [
+          {
+            "label": "Andorra"
+          },
+          {
+            "label": "Portugal",
+            "correct": true
+          },
+          {
+            "label": "Morocco"
+          },
+          {
+            "label": "Gibraltar"
+          }
+        ],
+        "explanation": "Portugal shares the Iberian Peninsula with Spain and is an EU member state. Andorra is on the Iberian Peninsula but is not an EU member. Morocco is in Africa. Gibraltar is a British Overseas Territory, not an independent state.",
+        "difficulty": "easy",
+        "tags": [
+          "eu",
+          "geography"
+        ],
+        "source": "Wikipedia — Iberian Peninsula",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Iberian_Peninsula",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "eug-025",
+        "type": "mcq",
+        "title": "EU Geography",
+        "description": "Where is the European Central Bank (ECB) headquartered?",
+        "options": [
+          {
+            "label": "Brussels"
+          },
+          {
+            "label": "Luxembourg City"
+          },
+          {
+            "label": "Vienna"
+          },
+          {
+            "label": "Frankfurt",
+            "correct": true
+          }
+        ],
+        "explanation": "The European Central Bank is headquartered in Frankfurt, Germany, in its distinctive twin-tower building. The ECB sets monetary policy for the eurozone. The European Commission is based in Brussels; the Court of Justice in Luxembourg.",
+        "difficulty": "medium",
+        "tags": [
+          "eu",
+          "institutions",
+          "epso"
+        ],
+        "source": "Wikipedia — European Central Bank",
+        "sourceUrl": "https://en.wikipedia.org/wiki/European_Central_Bank",
+        "license": "CC-BY-SA-3.0"
+      }
+    ]
+  },
+  "contentHash": "sha256-84b2a3178824d500e1c809c62371d54dd558153a4fcc6e0898e8440239aeea58"
+}

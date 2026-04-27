@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-04-22",
+  "updatedAt": "2026-04-27",
   "packs": [
     {
       "packId": "epso-numerical-v2",
@@ -48,6 +48,21 @@
       "updatedAt": "2026-04-22"
     },
     {
+      "packId": "eu-geography",
+      "version": "1.0.0",
+      "name": "EU Member States — Geography and Facts",
+      "description": "25 MCQs covering EU member states: capitals, accession dates, populations, and geography. Supports EPSO Verbal/Numerical context knowledge. Facts paraphrased from Wikipedia (CC BY-SA 3.0).",
+      "category": "general-knowledge",
+      "license": "CC-BY-SA-3.0",
+      "source": "Wikipedia — EU member state articles (CC BY-SA 3.0)",
+      "url": "packs/eu-geography.json",
+      "questionCount": 25,
+      "sizeBytes": 25876,
+      "contentHash": "sha256-84b2a3178824d500e1c809c62371d54dd558153a4fcc6e0898e8440239aeea58",
+      "tier": "free",
+      "updatedAt": "2026-04-27"
+    },
+    {
       "packId": "gre-vocab-cloze",
       "version": "1.0.0",
       "name": "GRE High-Frequency Vocabulary — Cloze",
@@ -76,6 +91,21 @@
       "contentHash": "sha256-6fa2d6d8e54629656645c3d6d0d2be5db10a93a63888f7cc837880464acdade1",
       "tier": "free",
       "updatedAt": "2026-04-22"
+    },
+    {
+      "packId": "word-origins",
+      "version": "1.0.0",
+      "name": "Word Origins",
+      "description": "30 MCQs tracing common English words back to their Greek, Latin, Old English, or Arabic roots. Free-tier pack. Etymology data paraphrased from Wiktionary (CC BY-SA 3.0).",
+      "category": "general-knowledge",
+      "license": "CC-BY-SA-3.0",
+      "source": "Wiktionary etymology sections — CC BY-SA 3.0",
+      "url": "packs/word-origins.json",
+      "questionCount": 30,
+      "sizeBytes": 33030,
+      "contentHash": "sha256-b6d61645be2e215c9b9b85525fa271f0f9484fd81a8171b3075e6522ba649104",
+      "tier": "free",
+      "updatedAt": "2026-04-27"
     }
   ]
 }

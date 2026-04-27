@@ -1,0 +1,953 @@
+{
+  "packId": "word-origins",
+  "version": "1.0.0",
+  "name": "Word Origins",
+  "description": "30 MCQs tracing common English words back to their Greek, Latin, Old English, or Arabic roots. Free-tier pack. Etymology data paraphrased from Wiktionary (CC BY-SA 3.0).",
+  "contributor": "Hambit content team",
+  "source": "Wiktionary etymology sections — CC BY-SA 3.0",
+  "license": "CC-BY-SA-3.0",
+  "updatedAt": "2026-04-27",
+  "questionCount": 30,
+  "sets": {
+    "word-origins": [
+      {
+        "id": "wo-001",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"philosophy\" comes from two Greek roots. Which pair?",
+        "options": [
+          {
+            "label": "philia (love) + sophia (wisdom)",
+            "correct": true
+          },
+          {
+            "label": "phos (light) + logos (word)"
+          },
+          {
+            "label": "philos (friend) + skopos (watcher)"
+          },
+          {
+            "label": "phytos (plant) + sophos (clever)"
+          }
+        ],
+        "explanation": "Philosophy comes from Greek philos (loving, fond of) and sophia (wisdom). The word entered English via Latin philosophia and Old French. A philosopher is literally a lover of wisdom.",
+        "difficulty": "easy",
+        "tags": [
+          "etymology",
+          "greek",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'philosophy'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/philosophy",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-002",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"salary\" traces back to which Latin word?",
+        "options": [
+          {
+            "label": "sal (salt)",
+            "correct": true
+          },
+          {
+            "label": "salus (health)"
+          },
+          {
+            "label": "salio (to leap)"
+          },
+          {
+            "label": "salvus (safe)"
+          }
+        ],
+        "explanation": "Salary derives from Latin salarium, related to sal (salt). The connection reflects ancient Roman practice of paying soldiers an allowance for salt or to buy salt, a precious commodity at the time.",
+        "difficulty": "medium",
+        "tags": [
+          "etymology",
+          "latin",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'salary'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/salary",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-003",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"algebra\" entered European languages from which Arabic root?",
+        "options": [
+          {
+            "label": "al-jabr (reunion of broken parts)",
+            "correct": true
+          },
+          {
+            "label": "al-qalam (the pen)"
+          },
+          {
+            "label": "al-kimiya (transmutation)"
+          },
+          {
+            "label": "al-zahr (the die)"
+          }
+        ],
+        "explanation": "Algebra comes from Arabic al-jabr, meaning the reunion or setting of broken bones — a metaphor for restoring balance to equations. The term appears in the 9th-century treatise by al-Khwarizmi.",
+        "difficulty": "medium",
+        "tags": [
+          "etymology",
+          "arabic",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'algebra'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/algebra",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-004",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"disaster\" comes from which Latin or Greek root meaning \"star\"?",
+        "options": [
+          {
+            "label": "aster/astrum (star)",
+            "correct": true
+          },
+          {
+            "label": "dies (day)"
+          },
+          {
+            "label": "distraho (to pull apart)"
+          },
+          {
+            "label": "ardor (fire)"
+          }
+        ],
+        "explanation": "Disaster is built from Latin dis- (away, unfavorable) and astrum (star), from Greek astron. It originally referred to an unfavorable position of a star, reflecting the astrological belief that celestial bodies governed fate.",
+        "difficulty": "medium",
+        "tags": [
+          "etymology",
+          "latin",
+          "greek",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'disaster'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/disaster",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-005",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The Old English word \"boc\" gave us which modern English word?",
+        "options": [
+          {
+            "label": "book",
+            "correct": true
+          },
+          {
+            "label": "back"
+          },
+          {
+            "label": "buck"
+          },
+          {
+            "label": "block"
+          }
+        ],
+        "explanation": "Modern English book descends directly from Old English boc, which referred to a written document or charter. The word shares a Germanic root with beech tree — early writing surfaces were sometimes beech-wood tablets.",
+        "difficulty": "easy",
+        "tags": [
+          "etymology",
+          "old-english",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'book'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/book",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-006",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"enthusiasm\" originally described possession by which entity?",
+        "options": [
+          {
+            "label": "A god (Greek theos)",
+            "correct": true
+          },
+          {
+            "label": "A spirit (Latin spiritus)"
+          },
+          {
+            "label": "The sun (Greek helios)"
+          },
+          {
+            "label": "A muse (Greek mousa)"
+          }
+        ],
+        "explanation": "Enthusiasm comes from Greek enthousiastmos, built on en- (in) and theos (god). To be enthusiastic originally meant to be filled with or inspired by a divine force — the same root that gives us theology and theocracy.",
+        "difficulty": "medium",
+        "tags": [
+          "etymology",
+          "greek",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'enthusiasm'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/enthusiasm",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-007",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"companion\" is built on the Latin roots com- (together) plus which other element?",
+        "options": [
+          {
+            "label": "panis (bread)",
+            "correct": true
+          },
+          {
+            "label": "pax (peace)"
+          },
+          {
+            "label": "pater (father)"
+          },
+          {
+            "label": "pes/pedis (foot)"
+          }
+        ],
+        "explanation": "Companion comes from Latin com- (together, with) and panis (bread). A companion is literally someone you share bread with. The same root appears in pantry and panettone.",
+        "difficulty": "hard",
+        "tags": [
+          "etymology",
+          "latin",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'companion'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/companion",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-008",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"magazine\" entered English from Arabic via which route?",
+        "options": [
+          {
+            "label": "Arabic makhazin (storehouses) via Italian and French",
+            "correct": true
+          },
+          {
+            "label": "Arabic ma'zun (permitted) via Spanish"
+          },
+          {
+            "label": "Arabic majlis (assembly) via Ottoman Turkish"
+          },
+          {
+            "label": "Arabic mizmar (flute) via Persian"
+          }
+        ],
+        "explanation": "Magazine derives from Arabic makhazin, the plural of makhzan (storehouse or treasury). It entered English through Italian magazzino and French magasin. A magazine is literally a storehouse — first of weapons, later of articles and information.",
+        "difficulty": "hard",
+        "tags": [
+          "etymology",
+          "arabic",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'magazine'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/magazine",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-009",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The Old English prefix \"un-\" (as in undo, unhappy) descends from which Proto-Germanic root?",
+        "options": [
+          {
+            "label": "un- / in- (negation or reversal)",
+            "correct": true
+          },
+          {
+            "label": "ofer- (over, above)"
+          },
+          {
+            "label": "and- (against, opposite)"
+          },
+          {
+            "label": "be- (around, by)"
+          }
+        ],
+        "explanation": "Old English un- is a native Germanic prefix expressing negation or reversal, cognate with Latin in- and Greek a-/an-. It is one of the oldest and most productive prefixes in English, predating Latin influence on the language.",
+        "difficulty": "hard",
+        "tags": [
+          "etymology",
+          "old-english",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of prefix 'un-'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/un-",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-010",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"muscle\" comes from Latin musculus, which also meant what animal?",
+        "options": [
+          {
+            "label": "Little mouse",
+            "correct": true
+          },
+          {
+            "label": "Small crab"
+          },
+          {
+            "label": "Young bull"
+          },
+          {
+            "label": "River eel"
+          }
+        ],
+        "explanation": "Latin musculus was a diminutive of mus (mouse) and meant both a small mouse and a mussel. The word was applied to muscles because the rippling movement under skin resembled a mouse moving beneath cloth.",
+        "difficulty": "medium",
+        "tags": [
+          "etymology",
+          "latin",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'muscle'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/muscle",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-011",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"algorithm\" is named after whom?",
+        "options": [
+          {
+            "label": "Al-Khwarizmi, a 9th-century mathematician",
+            "correct": true
+          },
+          {
+            "label": "Al-Ghazali, a 12th-century philosopher"
+          },
+          {
+            "label": "Al-Biruni, an 11th-century scholar"
+          },
+          {
+            "label": "Al-Kindi, a 9th-century cryptographer"
+          }
+        ],
+        "explanation": "Algorithm is a Latinization of al-Khwarizmi, the name of 9th-century mathematician Muhammad ibn Musa al-Khwarizmi. His treatise on arithmetic introduced Hindu-Arabic numerals to European scholarship, and his name became synonymous with systematic calculation.",
+        "difficulty": "medium",
+        "tags": [
+          "etymology",
+          "arabic",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'algorithm'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/algorithm",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-012",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"paradise\" entered English from which language, originally meaning a walled garden or enclosed park?",
+        "options": [
+          {
+            "label": "Old Persian (via Greek and Latin)",
+            "correct": true
+          },
+          {
+            "label": "Sanskrit (via Arabic)"
+          },
+          {
+            "label": "Hebrew (via Aramaic)"
+          },
+          {
+            "label": "Egyptian (via Greek)"
+          }
+        ],
+        "explanation": "Paradise traces back to Old Persian pairi-daeza, meaning a walled enclosure or royal park. It was borrowed into Greek as paradeisos and then Latin. The word was applied to the Garden of Eden by early Bible translators.",
+        "difficulty": "hard",
+        "tags": [
+          "etymology",
+          "persian",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'paradise'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/paradise",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-013",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"window\" comes from Old Norse vindauga. What does vindauga literally mean?",
+        "options": [
+          {
+            "label": "Wind eye",
+            "correct": true
+          },
+          {
+            "label": "Wind hole"
+          },
+          {
+            "label": "Light door"
+          },
+          {
+            "label": "Sky gap"
+          }
+        ],
+        "explanation": "Old Norse vindauga combines vindr (wind) and auga (eye). A window was literally a wind-eye — an opening in a wall that let in air and light. The word displaced Old English eagduru (eye-door) after the Scandinavian influence on English.",
+        "difficulty": "easy",
+        "tags": [
+          "etymology",
+          "old-norse",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'window'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/window",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-014",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"calculate\" derives from the Latin calculus, which first referred to what object?",
+        "options": [
+          {
+            "label": "A small stone or pebble (used for counting)",
+            "correct": true
+          },
+          {
+            "label": "A clay tablet"
+          },
+          {
+            "label": "A notched bone"
+          },
+          {
+            "label": "A type of ruler"
+          }
+        ],
+        "explanation": "Latin calculus means a small stone or pebble. Romans used pebbles on counting boards to perform arithmetic — calculi were literally the computing tokens. The same root gives us calcium (from calx, limestone) and chalk.",
+        "difficulty": "medium",
+        "tags": [
+          "etymology",
+          "latin",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'calculate'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/calculate",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-015",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The Greek root \"chronos\" (time) appears in all of the following words EXCEPT which?",
+        "options": [
+          {
+            "label": "chronicle"
+          },
+          {
+            "label": "anachronism"
+          },
+          {
+            "label": "synchronize"
+          },
+          {
+            "label": "chronic"
+          },
+          {
+            "label": "acronym",
+            "correct": true
+          }
+        ],
+        "explanation": "Acronym comes from Greek akron (tip, top) and onoma (name) — it has nothing to do with time. Chronicle, anachronism, synchronize, and chronic all build on chronos (time). This is a common false-friend because the -cron- spelling looks similar.",
+        "difficulty": "hard",
+        "tags": [
+          "etymology",
+          "greek",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'acronym'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/acronym",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-016",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"coffee\" reached English from Arabic. What was the Arabic original?",
+        "options": [
+          {
+            "label": "qahwa (a stimulating drink)",
+            "correct": true
+          },
+          {
+            "label": "qafas (a cage, enclosure)"
+          },
+          {
+            "label": "kafir (an unbeliever)"
+          },
+          {
+            "label": "qalam (a pen)"
+          }
+        ],
+        "explanation": "Coffee derives from Arabic qahwa, which referred to a type of wine and later to the coffee drink. The word passed into Turkish as kahve and then into Italian and Dutch before entering English in the 17th century.",
+        "difficulty": "medium",
+        "tags": [
+          "etymology",
+          "arabic",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'coffee'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/coffee",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-017",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"lord\" descends from Old English hlafweard. What does hlafweard literally mean?",
+        "options": [
+          {
+            "label": "Loaf guardian or bread keeper",
+            "correct": true
+          },
+          {
+            "label": "Land ward or estate protector"
+          },
+          {
+            "label": "Law warden or rule enforcer"
+          },
+          {
+            "label": "Life keeper or protector"
+          }
+        ],
+        "explanation": "Old English hlafweard combines hlaf (loaf, bread) and weard (guardian, keeper). A lord was literally the one who kept and distributed the bread — the household provider. Lady comes from a parallel form meaning loaf-kneader.",
+        "difficulty": "hard",
+        "tags": [
+          "etymology",
+          "old-english",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'lord'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/lord",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-018",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The Greek word \"psyche\" originally referred to which concept before it came to mean mind or soul?",
+        "options": [
+          {
+            "label": "Breath or the animating life force",
+            "correct": true
+          },
+          {
+            "label": "Thought or reasoning"
+          },
+          {
+            "label": "Memory or recollection"
+          },
+          {
+            "label": "Feeling or emotion"
+          }
+        ],
+        "explanation": "Greek psyche originally meant breath or the principle of life — the thing that leaves the body at death. Over time it broadened to mean soul and then mind. The same root drives psychology, psychiatry, and psychosis.",
+        "difficulty": "medium",
+        "tags": [
+          "etymology",
+          "greek",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'psyche'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/psyche",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-019",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"candidate\" comes from Latin candidatus, referring to a person wearing what?",
+        "options": [
+          {
+            "label": "A white toga (candida)",
+            "correct": true
+          },
+          {
+            "label": "A laurel wreath"
+          },
+          {
+            "label": "A scarlet robe"
+          },
+          {
+            "label": "A metal breastplate"
+          }
+        ],
+        "explanation": "Latin candidatus described someone dressed in a white (candida) toga — the color worn by those seeking public office in Rome, signifying purity of intention. Candid and candor share the same Latin root for white or bright.",
+        "difficulty": "medium",
+        "tags": [
+          "etymology",
+          "latin",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'candidate'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/candidate",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-020",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The Old English word \"wyrd\" is the direct ancestor of which modern word?",
+        "options": [
+          {
+            "label": "weird",
+            "correct": true
+          },
+          {
+            "label": "word"
+          },
+          {
+            "label": "ward"
+          },
+          {
+            "label": "world"
+          }
+        ],
+        "explanation": "Old English wyrd meant fate or what is destined to happen — the power controlling one's future. It shifted in meaning toward the eerie or uncanny in later centuries. The Weird Sisters in Shakespeare's Macbeth still carry the old sense of fateful.",
+        "difficulty": "easy",
+        "tags": [
+          "etymology",
+          "old-english",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'weird'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/weird",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-021",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"hazard\" entered English from Arabic via Spanish. What did the Arabic original al-zahr refer to?",
+        "options": [
+          {
+            "label": "The die or dice (used in gambling)",
+            "correct": true
+          },
+          {
+            "label": "The desert wind"
+          },
+          {
+            "label": "A sharp blade"
+          },
+          {
+            "label": "A poisonous plant"
+          }
+        ],
+        "explanation": "Hazard comes from Arabic al-zahr (the die), a reference to dice and the element of chance in gambling. It passed through Spanish azar (chance event) into Old French hasard before arriving in English with a sense of risk or danger.",
+        "difficulty": "hard",
+        "tags": [
+          "etymology",
+          "arabic",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'hazard'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/hazard",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-022",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The Latin root \"bene-\" (as in benefit, benevolent) means what?",
+        "options": [
+          {
+            "label": "Well or good",
+            "correct": true
+          },
+          {
+            "label": "Two or twice"
+          },
+          {
+            "label": "Below or under"
+          },
+          {
+            "label": "Around or near"
+          }
+        ],
+        "explanation": "Latin bene means well or in a good way. It appears in benefit (a good deed), benevolent (wishing well), benign (kind or harmless), and benediction (a good word or blessing). Its opposite mal- (badly) appears in malevolent and malign.",
+        "difficulty": "easy",
+        "tags": [
+          "etymology",
+          "latin",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'benefit'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/benefit",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-023",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"amok\" (as in \"run amok\") was borrowed directly from which language?",
+        "options": [
+          {
+            "label": "Malay (amuk, meaning a frenzied attack)",
+            "correct": true
+          },
+          {
+            "label": "Hindi (amukh, meaning faceless)"
+          },
+          {
+            "label": "Arabic (amaq, meaning deep or profound)"
+          },
+          {
+            "label": "Portuguese (amoco, meaning stump)"
+          }
+        ],
+        "explanation": "Amok is borrowed directly from Malay amuk, which described a frenzied, murderous charge — a recognized behavioral pattern noted by European colonists in Southeast Asia. It entered English through Portuguese accounts from the 16th century.",
+        "difficulty": "hard",
+        "tags": [
+          "etymology",
+          "malay",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'amok'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/amok",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-024",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The Greek root \"demos\" (as in democracy, epidemic) means what?",
+        "options": [
+          {
+            "label": "People or populace",
+            "correct": true
+          },
+          {
+            "label": "Land or country"
+          },
+          {
+            "label": "Power or strength"
+          },
+          {
+            "label": "City or settlement"
+          }
+        ],
+        "explanation": "Greek demos means the people or the common population. Democracy is literally rule (kratos) by the people. Epidemic means upon (epi) the people — a disease spreading across the population. Demagogue is a leader who appeals to the people.",
+        "difficulty": "easy",
+        "tags": [
+          "etymology",
+          "greek",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'democracy'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/democracy",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-025",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"villain\" originally referred to what kind of person in medieval Europe?",
+        "options": [
+          {
+            "label": "A farm laborer attached to a feudal estate (villa)",
+            "correct": true
+          },
+          {
+            "label": "A city dweller known for lawlessness"
+          },
+          {
+            "label": "A traveling mercenary or bandit"
+          },
+          {
+            "label": "A church official guilty of corruption"
+          }
+        ],
+        "explanation": "Villain comes from Latin villanus, a worker on a villa (a large estate). In feudal England, villains were serfs — unfree peasants bound to their lord's land. The word's negative shift reflects class prejudice: rural, uneducated, and considered morally suspect.",
+        "difficulty": "medium",
+        "tags": [
+          "etymology",
+          "latin",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'villain'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/villain",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-026",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"mortgage\" combines the Old French mort (dead) with which other element?",
+        "options": [
+          {
+            "label": "gage (pledge or security)",
+            "correct": true
+          },
+          {
+            "label": "gager (to wager)"
+          },
+          {
+            "label": "garde (guard or protection)"
+          },
+          {
+            "label": "gant (glove, as in throwing down a challenge)"
+          }
+        ],
+        "explanation": "Mortgage is Old French for dead pledge. The pledge (gage) is dead in two senses: the debt dies when it is paid off, and the land is dead to the borrower if they fail to pay. The word entered English law through the Norman French legal system.",
+        "difficulty": "hard",
+        "tags": [
+          "etymology",
+          "french",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'mortgage'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/mortgage",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-027",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The Greek word \"polis\" (city-state) is the root of all the following EXCEPT which?",
+        "options": [
+          {
+            "label": "politics"
+          },
+          {
+            "label": "metropolis"
+          },
+          {
+            "label": "police"
+          },
+          {
+            "label": "cosmopolitan"
+          },
+          {
+            "label": "policy",
+            "correct": true
+          }
+        ],
+        "explanation": "Policy comes from Greek politeia (civil administration) only indirectly — its direct ancestor is Latin policia and then Old French policie, meaning governance or administration. Politics, metropolis, police, and cosmopolitan all connect directly to polis (city).",
+        "difficulty": "hard",
+        "tags": [
+          "etymology",
+          "greek",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'policy'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/policy",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-028",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"gossip\" in Old English (godsibb) referred to what relationship?",
+        "options": [
+          {
+            "label": "A godparent or spiritual sponsor at baptism",
+            "correct": true
+          },
+          {
+            "label": "A close neighbor or village friend"
+          },
+          {
+            "label": "A local storyteller or bard"
+          },
+          {
+            "label": "A church elder or deacon"
+          }
+        ],
+        "explanation": "Old English godsibb combined god (God) and sibb (relative or kinsman). A godsibb was a godparent — a spiritual co-parent who shared the ritual bond of baptism. These close family friends were known for casual conversation, which gave the word its modern meaning.",
+        "difficulty": "medium",
+        "tags": [
+          "etymology",
+          "old-english",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'gossip'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/gossip",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-029",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"science\" derives from the Latin scire, meaning what?",
+        "options": [
+          {
+            "label": "To know or to understand",
+            "correct": true
+          },
+          {
+            "label": "To observe or to watch"
+          },
+          {
+            "label": "To measure or to count"
+          },
+          {
+            "label": "To prove or to test"
+          }
+        ],
+        "explanation": "Latin scire means to know. It gives English science (knowledge), conscience (knowing together with oneself), omniscient (knowing all), and prescient (knowing in advance). The root connects to Proto-Indo-European skei- (to cut or separate), linking knowing to distinguishing things.",
+        "difficulty": "easy",
+        "tags": [
+          "etymology",
+          "latin",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'science'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/science",
+        "license": "CC-BY-SA-3.0"
+      },
+      {
+        "id": "wo-030",
+        "type": "mcq",
+        "title": "Word Origins",
+        "description": "The word \"hazmat\" is a compound of hazardous materials. Which part of hazardous traces back to Arabic?",
+        "options": [
+          {
+            "label": "hazard (from Arabic al-zahr, the die)",
+            "correct": true
+          },
+          {
+            "label": "ous (Latin suffix for full of)"
+          },
+          {
+            "label": "material (from Latin materia, wood or matter)"
+          },
+          {
+            "label": "The word hazmat has no Arabic component"
+          }
+        ],
+        "explanation": "The haz- in hazmat comes from hazardous, which contains hazard — itself from Arabic al-zahr (the die used in gambling). The -ous suffix is Latin, and material comes from Latin materia. Only the hazard root is Arabic in origin.",
+        "difficulty": "hard",
+        "tags": [
+          "etymology",
+          "arabic",
+          "free"
+        ],
+        "source": "Wiktionary — etymology of 'hazard'",
+        "sourceUrl": "https://en.wiktionary.org/wiki/hazard",
+        "license": "CC-BY-SA-3.0"
+      }
+    ]
+  },
+  "contentHash": "sha256-b6d61645be2e215c9b9b85525fa271f0f9484fd81a8171b3075e6522ba649104"
+}
